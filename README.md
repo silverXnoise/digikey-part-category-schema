@@ -8,6 +8,8 @@ An effectively 1:1 representation of DigiKey part categories for use in InvenTre
 
 InvenTree documentation for importing data can be found at [https://docs.inventree.org/en/0.13.5/settings/import/](https://docs.inventree.org/en/0.13.5/settings/import/).
 
+In order to import the entire schema, the import limits in `/home/inventree/InvenTree/InvenTree/admin.py` need to be raised. They are set to 1000 rows and 100 columns by default, you should only need to raise the row limit from 1000 to 1500.
+
 Use whichever file format suits your needs/comfort level. Category imports are completed using the InvenTree API, which supports all of the formats found in this repo, regardless of your particular database flavor. All datasets were originally developed and tested using InvenTree v0.13.5. 
 
 **Important**: Be sure to change/remove the Default Location IDs for each category array (use basic find/replace).
