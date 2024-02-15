@@ -1,0 +1,1194 @@
+Category ID	Category Name	Description	Parent ID	Parent Name	Default Location ID	Keywords	Category Path	Parts	structural
+28	Anti-Static, ESD, Clean Room Products				1		Anti-Static, ESD, Clean Room Products	0	0
+605	Anti-Static, ESD Bags, Materials		28	Anti-Static, ESD, Clean Room Products	1		Anti-Static, ESD, Clean Room Products/Anti-Static, ESD Bags, Materials	0	0
+603	Anti-Static, ESD, Clean Room Accessories		28	Anti-Static, ESD, Clean Room Products	1		Anti-Static, ESD, Clean Room Products/Anti-Static, ESD, Clean Room Accessories	0	0
+610	Anti-Static, ESD Clothing		28	Anti-Static, ESD, Clean Room Products	1		Anti-Static, ESD, Clean Room Products/Anti-Static, ESD Clothing	0	0
+607	Anti-Static, ESD Device Containers		28	Anti-Static, ESD, Clean Room Products	1		Anti-Static, ESD, Clean Room Products/Anti-Static, ESD Device Containers	0	0
+606	Anti-Static, ESD Grounding Mats		28	Anti-Static, ESD, Clean Room Products	1		Anti-Static, ESD, Clean Room Products/Anti-Static, ESD Grounding Mats	0	0
+604	Anti-Static, ESD Straps, Grounding Cords		28	Anti-Static, ESD, Clean Room Products	1		Anti-Static, ESD, Clean Room Products/Anti-Static, ESD Straps, Grounding Cords	0	0
+611	Clean Room Swabs and Brushes		28	Anti-Static, ESD, Clean Room Products	1		Anti-Static, ESD, Clean Room Products/Clean Room Swabs and Brushes	0	0
+608	Clean Room Treatments, Cleaners, Wipes		28	Anti-Static, ESD, Clean Room Products	1		Anti-Static, ESD, Clean Room Products/Clean Room Treatments, Cleaners, Wipes	0	0
+609	Ionizer Equipment		28	Anti-Static, ESD, Clean Room Products	1		Anti-Static, ESD, Clean Room Products/Ionizer Equipment	0	0
+1016	Modular ESD Desks, Workstations		28	Anti-Static, ESD, Clean Room Products	1		Anti-Static, ESD, Clean Room Products/Modular ESD Desks, Workstations	0	0
+612	Monitors, Testers		28	Anti-Static, ESD, Clean Room Products	1		Anti-Static, ESD, Clean Room Products/Monitors, Testers	0	0
+10	Audio Products				1		Audio Products	0	0
+159	Accessories		10	Audio Products	1		Audio Products/Accessories	0	0
+157	Alarms, Buzzers, and Sirens		10	Audio Products	1		Audio Products/Alarms, Buzzers, and Sirens	0	0
+998	Amplifiers		10	Audio Products	1		Audio Products/Amplifiers	0	0
+160	Buzzer Elements, Piezo Benders		10	Audio Products	1		Audio Products/Buzzer Elements, Piezo Benders	0	0
+1001	Guitar Parts, Accessories		10	Audio Products	1		Audio Products/Guitar Parts, Accessories	0	0
+158	Microphones		10	Audio Products	1		Audio Products/Microphones	0	0
+156	Speakers		10	Audio Products	1		Audio Products/Speakers	0	0
+6	Battery Products				1		Battery Products	0	0
+90	Batteries Non-Rechargeable (Primary)		6	Battery Products	1		Battery Products/Batteries Non-Rechargeable (Primary)	0	0
+91	Batteries Rechargeable (Secondary)		6	Battery Products	1		Battery Products/Batteries Rechargeable (Secondary)	0	0
+85	Battery Chargers		6	Battery Products	1		Battery Products/Battery Chargers	0	0
+86	Battery Holders, Clips, Contacts		6	Battery Products	1		Battery Products/Battery Holders, Clips, Contacts	0	0
+89	Battery Packs		6	Battery Products	1		Battery Products/Battery Packs	0	0
+87	Battery Product Accessories		6	Battery Products	1		Battery Products/Battery Product Accessories	0	0
+88	Cigarette Lighter Assemblies		6	Battery Products	1		Battery Products/Cigarette Lighter Assemblies	0	0
+27	Boxes, Enclosures, Racks				1		Boxes, Enclosures, Racks	0	0
+589	Backplanes		27	Boxes, Enclosures, Racks	1		Boxes, Enclosures, Racks/Backplanes	0	0
+595	Box Accessories		27	Boxes, Enclosures, Racks	1		Boxes, Enclosures, Racks/Box Accessories	0	0
+596	Box Components		27	Boxes, Enclosures, Racks	1		Boxes, Enclosures, Racks/Box Components	0	0
+594	Boxes		27	Boxes, Enclosures, Racks	1		Boxes, Enclosures, Racks/Boxes	0	0
+960	Cams		27	Boxes, Enclosures, Racks	1		Boxes, Enclosures, Racks/Cams	0	0
+600	Card Guide Accessories		27	Boxes, Enclosures, Racks	1		Boxes, Enclosures, Racks/Card Guide Accessories	0	0
+591	Card Guides		27	Boxes, Enclosures, Racks	1		Boxes, Enclosures, Racks/Card Guides	0	0
+601	Card Rack Accessories		27	Boxes, Enclosures, Racks	1		Boxes, Enclosures, Racks/Card Rack Accessories	0	0
+588	Card Racks		27	Boxes, Enclosures, Racks	1		Boxes, Enclosures, Racks/Card Racks	0	0
+975	Evaluation, Development Board Enclosures		27	Boxes, Enclosures, Racks	1		Boxes, Enclosures, Racks/Evaluation, Development Board Enclosures	0	0
+590	Handles		27	Boxes, Enclosures, Racks	1		Boxes, Enclosures, Racks/Handles	0	0
+973	Latches, Locks		27	Boxes, Enclosures, Racks	1		Boxes, Enclosures, Racks/Latches, Locks	0	0
+593	Patchbay, Jack Panel Accessories		27	Boxes, Enclosures, Racks	1		Boxes, Enclosures, Racks/Patchbay, Jack Panel Accessories	0	0
+592	Patchbay, Jack Panels		27	Boxes, Enclosures, Racks	1		Boxes, Enclosures, Racks/Patchbay, Jack Panels	0	0
+598	Rack Accessories		27	Boxes, Enclosures, Racks	1		Boxes, Enclosures, Racks/Rack Accessories	0	0
+599	Rack Components		27	Boxes, Enclosures, Racks	1		Boxes, Enclosures, Racks/Rack Components	0	0
+597	Racks		27	Boxes, Enclosures, Racks	1		Boxes, Enclosures, Racks/Racks	0	0
+602	Rack Thermal Management		27	Boxes, Enclosures, Racks	1		Boxes, Enclosures, Racks/Rack Thermal Management	0	0
+1097	Storage		27	Boxes, Enclosures, Racks	1		Boxes, Enclosures, Racks/Storage	0	0
+1098	Storage Accessories		27	Boxes, Enclosures, Racks	1		Boxes, Enclosures, Racks/Storage Accessories	0	0
+21	Cable Assemblies				1		Cable Assemblies	0	0
+2038	Barrel Connector Cables		21	Cable Assemblies	1		Cable Assemblies/Barrel Connector Cables	0	0
+463	Barrel Audio Cables		2038	Barrel Connector Cables	1		Cable Assemblies/Barrel Connector Cables/Barrel Audio Cables	0	0
+464	Barrel Power Cables		2038	Barrel Connector Cables	1		Cable Assemblies/Barrel Connector Cables/Barrel Power Cables	0	0
+459	Between Series Adapter Cables		21	Cable Assemblies	1		Cable Assemblies/Between Series Adapter Cables	0	0
+448	Circular Cable Assemblies		21	Cable Assemblies	1		Cable Assemblies/Circular Cable Assemblies	0	0
+456	Coaxial Cables (RF)		21	Cable Assemblies	1		Cable Assemblies/Coaxial Cables (RF)	0	0
+466	D-Shaped, Centronics Cables		21	Cable Assemblies	1		Cable Assemblies/D-Shaped, Centronics Cables	0	0
+461	D-Sub Cables		21	Cable Assemblies	1		Cable Assemblies/D-Sub Cables	0	0
+449	Fiber Optic Cables		21	Cable Assemblies	1		Cable Assemblies/Fiber Optic Cables	0	0
+454	Firewire Cables (IEEE 1394)		21	Cable Assemblies	1		Cable Assemblies/Firewire Cables (IEEE 1394)	0	0
+458	Flat Flex Jumpers, Cables (FFC, FPC)		21	Cable Assemblies	1		Cable Assemblies/Flat Flex Jumpers, Cables (FFC, FPC)	0	0
+457	Flat Flex Ribbon Jumpers, Cables		21	Cable Assemblies	1		Cable Assemblies/Flat Flex Ribbon Jumpers, Cables	0	0
+453	Jumper Wires, Pre-Crimped Leads		21	Cable Assemblies	1		Cable Assemblies/Jumper Wires, Pre-Crimped Leads	0	0
+465	LGH Cables		21	Cable Assemblies	1		Cable Assemblies/LGH Cables	0	0
+451	Modular Cables		21	Cable Assemblies	1		Cable Assemblies/Modular Cables	0	0
+460	Pluggable Cables		21	Cable Assemblies	1		Cable Assemblies/Pluggable Cables	0	0
+452	Power, Line Cables and Extension Cords		21	Cable Assemblies	1		Cable Assemblies/Power, Line Cables and Extension Cords	0	0
+450	Rectangular Cable Assemblies		21	Cable Assemblies	1		Cable Assemblies/Rectangular Cable Assemblies	0	0
+468	Smart Cables		21	Cable Assemblies	1		Cable Assemblies/Smart Cables	0	0
+469	Solid State Lighting Cables		21	Cable Assemblies	1		Cable Assemblies/Solid State Lighting Cables	0	0
+467	Specialized Cable Assemblies		21	Cable Assemblies	1		Cable Assemblies/Specialized Cable Assemblies	0	0
+455	USB Cables		21	Cable Assemblies	1		Cable Assemblies/USB Cables	0	0
+462	Video Cables (DVI, HDMI)		21	Cable Assemblies	1		Cable Assemblies/Video Cables (DVI, HDMI)	0	0
+22	Cables, Wires				1		Cables, Wires	0	0
+475	Coaxial Cables (RF)		22	Cables, Wires	1		Cables, Wires/Coaxial Cables (RF)	0	0
+471	Fiber Optic Cables		22	Cables, Wires	1		Cables, Wires/Fiber Optic Cables	0	0
+476	Flat Flex Cables (FFC, FPC)		22	Cables, Wires	1		Cables, Wires/Flat Flex Cables (FFC, FPC)	0	0
+472	Flat Ribbon Cables		22	Cables, Wires	1		Cables, Wires/Flat Ribbon Cables	0	0
+477	Modular - Flat Cable		22	Cables, Wires	1		Cables, Wires/Modular - Flat Cable	0	0
+473	Multiple Conductor Cables		22	Cables, Wires	1		Cables, Wires/Multiple Conductor Cables	0	0
+474	Single Conductor Cables (Hook-Up Wire)		22	Cables, Wires	1		Cables, Wires/Single Conductor Cables (Hook-Up Wire)	0	0
+470	Wire Wrap		22	Cables, Wires	1		Cables, Wires/Wire Wrap	0	0
+23	Cables, Wires - Management				1		Cables, Wires - Management	0	0
+479	Accessories		23	Cables, Wires - Management	1		Cables, Wires - Management/Accessories	0	0
+491	Bushings, Grommets		23	Cables, Wires - Management	1		Cables, Wires - Management/Bushings, Grommets	0	0
+492	Cable and Cord Grips		23	Cables, Wires - Management	1		Cables, Wires - Management/Cable and Cord Grips	0	0
+490	Cable Supports and Fasteners		23	Cables, Wires - Management	1		Cables, Wires - Management/Cable Supports and Fasteners	0	0
+482	Cable Ties and Zip Ties		23	Cables, Wires - Management	1		Cables, Wires - Management/Cable Ties and Zip Ties	0	0
+488	Cable Ties - Holders and Mountings		23	Cables, Wires - Management	1		Cables, Wires - Management/Cable Ties - Holders and Mountings	0	0
+485	Cold Shrink Tape, Tubing		23	Cables, Wires - Management	1		Cables, Wires - Management/Cold Shrink Tape, Tubing	0	0
+481	Fiber Optic Cables		23	Cables, Wires - Management	1		Cables, Wires - Management/Fiber Optic Cables	0	0
+494	Grounding Braid, Straps		23	Cables, Wires - Management	1		Cables, Wires - Management/Grounding Braid, Straps	0	0
+499	Heat Shrink Boots, Caps		23	Cables, Wires - Management	1		Cables, Wires - Management/Heat Shrink Boots, Caps	0	0
+489	Heat Shrink Fabric		23	Cables, Wires - Management	1		Cables, Wires - Management/Heat Shrink Fabric	0	0
+483	Heat Shrink Tubing		23	Cables, Wires - Management	1		Cables, Wires - Management/Heat Shrink Tubing	0	0
+497	Heat Shrink Wrap		23	Cables, Wires - Management	1		Cables, Wires - Management/Heat Shrink Wrap	0	0
+484	Labels, Labeling		23	Cables, Wires - Management	1		Cables, Wires - Management/Labels, Labeling	0	0
+493	Markers		23	Cables, Wires - Management	1		Cables, Wires - Management/Markers	0	0
+480	Protective Hoses, Solid Tubing, Sleeving		23	Cables, Wires - Management	1		Cables, Wires - Management/Protective Hoses, Solid Tubing, Sleeving	0	0
+498	Pulling, Support Grips		23	Cables, Wires - Management	1		Cables, Wires - Management/Pulling, Support Grips	0	0
+478	Solder Sleeve		23	Cables, Wires - Management	1		Cables, Wires - Management/Solder Sleeve	0	0
+495	Spiral Wrap, Expandable Sleeving		23	Cables, Wires - Management	1		Cables, Wires - Management/Spiral Wrap, Expandable Sleeving	0	0
+496	Splice Enclosures, Protection		23	Cables, Wires - Management	1		Cables, Wires - Management/Splice Enclosures, Protection	0	0
+2039	Wire Ducts, Raceways		23	Cables, Wires - Management	1		Cables, Wires - Management/Wire Ducts, Raceways	0	0
+487	Wire Duct, Raceway Accessories		2039	Wire Ducts, Raceways	1		Cables, Wires - Management/Wire Ducts, Raceways/Wire Duct, Raceway Accessories	0	0
+957	Wire Duct, Raceway Covers		2039	Wire Ducts, Raceways	1		Cables, Wires - Management/Wire Ducts, Raceways/Wire Duct, Raceway Covers	0	0
+486	Wire Ducts, Raceways		2039	Wire Ducts, Raceways	1		Cables, Wires - Management/Wire Ducts, Raceways/Wire Ducts, Raceways	0	0
+3	Capacitors				1		Capacitors	0	0
+63	Accessories		3	Capacitors	1		Capacitors/Accessories	0	0
+58	Aluminum Electrolytic Capacitors		3	Capacitors	1		Capacitors/Aluminum Electrolytic Capacitors	0	0
+69	Aluminum - Polymer Capacitors		3	Capacitors	1		Capacitors/Aluminum - Polymer Capacitors	0	0
+57	Capacitor Networks, Arrays		3	Capacitors	1		Capacitors/Capacitor Networks, Arrays	0	0
+60	Ceramic Capacitors		3	Capacitors	1		Capacitors/Ceramic Capacitors	0	0
+61	Electric Double Layer Capacitors (EDLC), Supercapacitors		3	Capacitors	1		Capacitors/Electric Double Layer Capacitors (EDLC), Supercapacitors	0	0
+62	Film Capacitors		3	Capacitors	1		Capacitors/Film Capacitors	0	0
+64	Mica and PTFE Capacitors		3	Capacitors	1		Capacitors/Mica and PTFE Capacitors	0	0
+67	Niobium Oxide Capacitors		3	Capacitors	1		Capacitors/Niobium Oxide Capacitors	0	0
+68	Silicon Capacitors		3	Capacitors	1		Capacitors/Silicon Capacitors	0	0
+59	Tantalum Capacitors		3	Capacitors	1		Capacitors/Tantalum Capacitors	0	0
+70	Tantalum - Polymer Capacitors		3	Capacitors	1		Capacitors/Tantalum - Polymer Capacitors	0	0
+66	Thin Film Capacitors		3	Capacitors	1		Capacitors/Thin Film Capacitors	0	0
+65	Trimmers, Variable Capacitors		3	Capacitors	1		Capacitors/Trimmers, Variable Capacitors	0	0
+9	Circuit Protection				1		Circuit Protection	0	0
+143	Circuit Breakers		9	Circuit Protection	1		Circuit Protection/Circuit Breakers	0	0
+145	Circuit Protection Accessories		9	Circuit Protection	1		Circuit Protection/Circuit Protection Accessories	0	0
+155	Electrical, Specialty Fuses		9	Circuit Protection	1		Circuit Protection/Electrical, Specialty Fuses	0	0
+140	Fuseholders		9	Circuit Protection	1		Circuit Protection/Fuseholders	0	0
+139	Fuses		9	Circuit Protection	1		Circuit Protection/Fuses	0	0
+142	Gas Discharge Tube Arresters (GDT)		9	Circuit Protection	1		Circuit Protection/Gas Discharge Tube Arresters (GDT)	0	0
+148	Ground Fault Circuit Interrupter (GFCI)		9	Circuit Protection	1		Circuit Protection/Ground Fault Circuit Interrupter (GFCI)	0	0
+151	Inrush Current Limiters (ICL)		9	Circuit Protection	1		Circuit Protection/Inrush Current Limiters (ICL)	0	0
+154	Lighting Protection		9	Circuit Protection	1		Circuit Protection/Lighting Protection	0	0
+150	PTC Resettable Fuses		9	Circuit Protection	1		Circuit Protection/PTC Resettable Fuses	0	0
+152	Surge Suppression Ics		9	Circuit Protection	1		Circuit Protection/Surge Suppression Ics	0	0
+146	Thermal Cutoffs (Thermal Fuses)		9	Circuit Protection	1		Circuit Protection/Thermal Cutoffs (Thermal Fuses)	0	0
+2040	Transient Voltage Suppressors (TVS)		9	Circuit Protection	1		Circuit Protection/Transient Voltage Suppressors (TVS)	0	0
+149	Mixed Technology		2040	Transient Voltage Suppressors (TVS)	1		Circuit Protection/Transient Voltage Suppressors (TVS)/Mixed Technology	0	0
+992	Surge Protection Devices (SPDs)		2040	Transient Voltage Suppressors (TVS)	1		Circuit Protection/Transient Voltage Suppressors (TVS)/Surge Protection Devices (SPDs)	0	0
+147	Thyristors		2040	Transient Voltage Suppressors (TVS)	1		Circuit Protection/Transient Voltage Suppressors (TVS)/Thyristors	0	0
+144	TVS Diodes		2040	Transient Voltage Suppressors (TVS)	1		Circuit Protection/Transient Voltage Suppressors (TVS)/TVS Diodes	0	0
+141	Varistors, MOVs		9	Circuit Protection	1		Circuit Protection/Varistors, MOVs	0	0
+38	Computer Equipment				1		Computer Equipment	0	0
+881	Accessories		38	Computer Equipment	1		Computer Equipment/Accessories	0	0
+888	Adapter Cards		38	Computer Equipment	1		Computer Equipment/Adapter Cards	0	0
+882	Adapters, Converters		38	Computer Equipment	1		Computer Equipment/Adapters, Converters	0	0
+889	Brackets		38	Computer Equipment	1		Computer Equipment/Brackets	0	0
+898	Cameras, Projectors		38	Computer Equipment	1		Computer Equipment/Cameras, Projectors	0	0
+893	Computer Mouse, Trackballs		38	Computer Equipment	1		Computer Equipment/Computer Mouse, Trackballs	0	0
+899	Desktop Joysticks, Simulation Products		38	Computer Equipment	1		Computer Equipment/Desktop Joysticks, Simulation Products	0	0
+885	Keyboards		38	Computer Equipment	1		Computer Equipment/Keyboards	0	0
+890	KVM Switches (Keyboard Video Mouse)		38	Computer Equipment	1		Computer Equipment/KVM Switches (Keyboard Video Mouse)	0	0
+896	KVM Switches (Keyboard Video Mouse) - Cables		38	Computer Equipment	1		Computer Equipment/KVM Switches (Keyboard Video Mouse) - Cables	0	0
+891	Magnetic Strip, Smart Card Readers		38	Computer Equipment	1		Computer Equipment/Magnetic Strip, Smart Card Readers	0	0
+895	Memory Card Readers		38	Computer Equipment	1		Computer Equipment/Memory Card Readers	0	0
+900	Monitors		38	Computer Equipment	1		Computer Equipment/Monitors	0	0
+887	Printers, Label Makers		38	Computer Equipment	1		Computer Equipment/Printers, Label Makers	0	0
+883	Privacy Filters, Screen Protectors		38	Computer Equipment	1		Computer Equipment/Privacy Filters, Screen Protectors	0	0
+986	Server Acceleration Cards		38	Computer Equipment	1		Computer Equipment/Server Acceleration Cards	0	0
+1015	USB Hubs		38	Computer Equipment	1		Computer Equipment/USB Hubs	0	0
+20	Connectors, Interconnects				1		Connectors, Interconnects	0	0
+2026	AC Power Connectors		20	Connectors, Interconnects	1		Connectors, Interconnects/AC Power Connectors	0	0
+1170	Plugs and Receptacles		2026	AC Power Connectors	1		Connectors, Interconnects/AC Power Connectors/Plugs and Receptacles	0	0
+341	Power Entry Connector Accessories		2026	AC Power Connectors	1		Connectors, Interconnects/AC Power Connectors/Power Entry Connector Accessories	0	0
+301	Power Entry Modules (PEM)		2026	AC Power Connectors	1		Connectors, Interconnects/AC Power Connectors/Power Entry Modules (PEM)	0	0
+2000	Backplane Connectors		20	Connectors, Interconnects	1		Connectors, Interconnects/Backplane Connectors	0	0
+386	ARINC		2000	Backplane Connectors	1		Connectors, Interconnects/Backplane Connectors/ARINC	0	0
+430	ARINC Inserts		2000	Backplane Connectors	1		Connectors, Interconnects/Backplane Connectors/ARINC Inserts	0	0
+343	Backplane Connector Accessories		2000	Backplane Connectors	1		Connectors, Interconnects/Backplane Connectors/Backplane Connector Accessories	0	0
+335	Backplane Connector Contacts		2000	Backplane Connectors	1		Connectors, Interconnects/Backplane Connectors/Backplane Connector Contacts	0	0
+372	Backplane Connector Housings		2000	Backplane Connectors	1		Connectors, Interconnects/Backplane Connectors/Backplane Connector Housings	0	0
+307	DIN 41612		2000	Backplane Connectors	1		Connectors, Interconnects/Backplane Connectors/DIN 41612	0	0
+406	Hard Metric, Standard		2000	Backplane Connectors	1		Connectors, Interconnects/Backplane Connectors/Hard Metric, Standard	0	0
+407	Specialized		2000	Backplane Connectors	1		Connectors, Interconnects/Backplane Connectors/Specialized	0	0
+2001	Banana and Tip Connectors		20	Connectors, Interconnects	1		Connectors, Interconnects/Banana and Tip Connectors	0	0
+351	Banana and Tip Connector Accessories		2001	Banana and Tip Connectors	1		Connectors, Interconnects/Banana and Tip Connectors/Banana and Tip Connector Accessories	0	0
+381	Banana and Tip Connector Adapters		2001	Banana and Tip Connectors	1		Connectors, Interconnects/Banana and Tip Connectors/Banana and Tip Connector Adapters	0	0
+310	Binding Posts		2001	Banana and Tip Connectors	1		Connectors, Interconnects/Banana and Tip Connectors/Binding Posts	0	0
+302	Jacks, Plugs		2001	Banana and Tip Connectors	1		Connectors, Interconnects/Banana and Tip Connectors/Jacks, Plugs	0	0
+2002	Barrel Connectors		20	Connectors, Interconnects	1		Connectors, Interconnects/Barrel Connectors	0	0
+434	Audio Connectors		2002	Barrel Connectors	1		Connectors, Interconnects/Barrel Connectors/Audio Connectors	0	0
+348	Barrel Connector Accessories		2002	Barrel Connectors	1		Connectors, Interconnects/Barrel Connectors/Barrel Connector Accessories	0	0
+376	Barrel Connector Adapters		2002	Barrel Connectors	1		Connectors, Interconnects/Barrel Connectors/Barrel Connector Adapters	0	0
+435	Power Connectors		2002	Barrel Connectors	1		Connectors, Interconnects/Barrel Connectors/Power Connectors	0	0
+373	Between Series Adapters		20	Connectors, Interconnects	1		Connectors, Interconnects/Between Series Adapters	0	0
+2003	Blade Type Power Connectors		20	Connectors, Interconnects	1		Connectors, Interconnects/Blade Type Power Connectors	0	0
+360	Blade Type Power Connector Accessories		2003	Blade Type Power Connectors	1		Connectors, Interconnects/Blade Type Power Connectors/Blade Type Power Connector Accessories	0	0
+357	Blade Type Power Connector Assemblies		2003	Blade Type Power Connectors	1		Connectors, Interconnects/Blade Type Power Connectors/Blade Type Power Connector Assemblies	0	0
+420	Blade Type Power Connector Contacts		2003	Blade Type Power Connectors	1		Connectors, Interconnects/Blade Type Power Connectors/Blade Type Power Connector Contacts	0	0
+419	Blade Type Power Connector Housings		2003	Blade Type Power Connectors	1		Connectors, Interconnects/Blade Type Power Connectors/Blade Type Power Connector Housings	0	0
+2004	Card Edge Connectors		20	Connectors, Interconnects	1		Connectors, Interconnects/Card Edge Connectors	0	0
+349	Card Edge Connector Accessories		2004	Card Edge Connectors	1		Connectors, Interconnects/Card Edge Connectors/Card Edge Connector Accessories	0	0
+429	Card Edge Connector Adapters		2004	Card Edge Connectors	1		Connectors, Interconnects/Card Edge Connectors/Card Edge Connector Adapters	0	0
+345	Card Edge Connector Contacts		2004	Card Edge Connectors	1		Connectors, Interconnects/Card Edge Connectors/Card Edge Connector Contacts	0	0
+354	Card Edge Connector Housings		2004	Card Edge Connectors	1		Connectors, Interconnects/Card Edge Connectors/Card Edge Connector Housings	0	0
+303	Edgeboard Connectors		2004	Card Edge Connectors	1		Connectors, Interconnects/Card Edge Connectors/Edgeboard Connectors	0	0
+2005	Circular Connectors		20	Connectors, Interconnects	1		Connectors, Interconnects/Circular Connectors	0	0
+313	Backshells and Cable Clamps		2005	Circular Connectors	1		Connectors, Interconnects/Circular Connectors/Backshells and Cable Clamps	0	0
+329	Circular Connector Accessories		2005	Circular Connectors	1		Connectors, Interconnects/Circular Connectors/Circular Connector Accessories	0	0
+378	Circular Connector Adapters		2005	Circular Connectors	1		Connectors, Interconnects/Circular Connectors/Circular Connector Adapters	0	0
+436	Circular Connector Assemblies		2005	Circular Connectors	1		Connectors, Interconnects/Circular Connectors/Circular Connector Assemblies	0	0
+330	Circular Connector Contacts		2005	Circular Connectors	1		Connectors, Interconnects/Circular Connectors/Circular Connector Contacts	0	0
+320	Circular Connector Housings		2005	Circular Connectors	1		Connectors, Interconnects/Circular Connectors/Circular Connector Housings	0	0
+2007	Coaxial Connectors (RF)		20	Connectors, Interconnects	1		Connectors, Interconnects/Coaxial Connectors (RF)	0	0
+342	Coaxial Connector (RF) Accessories		2007	Coaxial Connectors (RF)	1		Connectors, Interconnects/Coaxial Connectors (RF)/Coaxial Connector (RF) Accessories	0	0
+374	Coaxial Connector (RF) Adapters		2007	Coaxial Connectors (RF)	1		Connectors, Interconnects/Coaxial Connectors (RF)/Coaxial Connector (RF) Adapters	0	0
+437	Coaxial Connector (RF) Assemblies		2007	Coaxial Connectors (RF)	1		Connectors, Interconnects/Coaxial Connectors (RF)/Coaxial Connector (RF) Assemblies	0	0
+388	Coaxial Connector (RF) Contacts		2007	Coaxial Connectors (RF)	1		Connectors, Interconnects/Coaxial Connectors (RF)/Coaxial Connector (RF) Contacts	0	0
+382	Coaxial Connector (RF) Terminators		2007	Coaxial Connectors (RF)	1		Connectors, Interconnects/Coaxial Connectors (RF)/Coaxial Connector (RF) Terminators	0	0
+2008	Contacts		20	Connectors, Interconnects	1		Connectors, Interconnects/Contacts	0	0
+311	Contacts, Spring Loaded (Pogo Pins), and Pressure		2008	Contacts	1		Connectors, Interconnects/Contacts/Contacts, Spring Loaded (Pogo Pins), and Pressure	0	0
+416	Leadframe		2008	Contacts	1		Connectors, Interconnects/Contacts/Leadframe	0	0
+336	Multi Purpose		2008	Contacts	1		Connectors, Interconnects/Contacts/Multi Purpose	0	0
+2011	D-Sub, D-Shaped Connectors		20	Connectors, Interconnects	1		Connectors, Interconnects/D-Sub, D-Shaped Connectors	0	0
+438	Centronics Connectors		2011	D-Sub, D-Shaped Connectors	1		Connectors, Interconnects/D-Sub, D-Shaped Connectors/Centronics Connectors	0	0
+439	D-Sub Connector Assemblies		2011	D-Sub, D-Shaped Connectors	1		Connectors, Interconnects/D-Sub, D-Shaped Connectors/D-Sub Connector Assemblies	0	0
+339	D-Sub, D-Shaped Connector Accessories		2011	D-Sub, D-Shaped Connectors	1		Connectors, Interconnects/D-Sub, D-Shaped Connectors/D-Sub, D-Shaped Connector Accessories	0	0
+375	D-Sub, D-Shaped Connector Adapters		2011	D-Sub, D-Shaped Connectors	1		Connectors, Interconnects/D-Sub, D-Shaped Connectors/D-Sub, D-Shaped Connector Adapters	0	0
+355	D-Sub, D-Shaped Connector Backshells, Hoods		2011	D-Sub, D-Shaped Connectors	1		Connectors, Interconnects/D-Sub, D-Shaped Connectors/D-Sub, D-Shaped Connector Backshells, Hoods	0	0
+332	D-Sub, D-Shaped Connector Contacts		2011	D-Sub, D-Shaped Connectors	1		Connectors, Interconnects/D-Sub, D-Shaped Connectors/D-Sub, D-Shaped Connector Contacts	0	0
+321	D-Sub, D-Shaped Connector Housings		2011	D-Sub, D-Shaped Connectors	1		Connectors, Interconnects/D-Sub, D-Shaped Connectors/D-Sub, D-Shaped Connector Housings	0	0
+447	D-Sub, D-Shaped Connector Jackscrews		2011	D-Sub, D-Shaped Connectors	1		Connectors, Interconnects/D-Sub, D-Shaped Connectors/D-Sub, D-Shaped Connector Jackscrews	0	0
+383	D-Sub, D-Shaped Connector Terminators		2011	D-Sub, D-Shaped Connectors	1		Connectors, Interconnects/D-Sub, D-Shaped Connectors/D-Sub, D-Shaped Connector Terminators	0	0
+2013	FFC, FPC (Flat Flexible) Connectors		20	Connectors, Interconnects	1		Connectors, Interconnects/FFC, FPC (Flat Flexible) Connectors	0	0
+350	FFC, FPC (Flat Flexible) Connector Accessories		2013	FFC, FPC (Flat Flexible) Connectors	1		Connectors, Interconnects/FFC, FPC (Flat Flexible) Connectors/FFC, FPC (Flat Flexible) Connector Accessories	0	0
+399	FFC, FPC (Flat Flexible) Connector Assemblies		2013	FFC, FPC (Flat Flexible) Connectors	1		Connectors, Interconnects/FFC, FPC (Flat Flexible) Connectors/FFC, FPC (Flat Flexible) Connector Assemblies	0	0
+344	FFC, FPC (Flat Flexible) Connector Contacts		2013	FFC, FPC (Flat Flexible) Connectors	1		Connectors, Interconnects/FFC, FPC (Flat Flexible) Connectors/FFC, FPC (Flat Flexible) Connector Contacts	0	0
+390	FFC, FPC (Flat Flexible) Connector Housings		2013	FFC, FPC (Flat Flexible) Connectors	1		Connectors, Interconnects/FFC, FPC (Flat Flexible) Connectors/FFC, FPC (Flat Flexible) Connector Housings	0	0
+2014	Fiber Optic Connectors		20	Connectors, Interconnects	1		Connectors, Interconnects/Fiber Optic Connectors	0	0
+389	Fiber Optic Connector Accessories		2014	Fiber Optic Connectors	1		Connectors, Interconnects/Fiber Optic Connectors/Fiber Optic Connector Accessories	0	0
+387	Fiber Optic Connector Adapters		2014	Fiber Optic Connectors	1		Connectors, Interconnects/Fiber Optic Connectors/Fiber Optic Connector Adapters	0	0
+440	Fiber Optic Connector Assemblies		2014	Fiber Optic Connectors	1		Connectors, Interconnects/Fiber Optic Connectors/Fiber Optic Connector Assemblies	0	0
+445	Fiber Optic Connector Housings		2014	Fiber Optic Connectors	1		Connectors, Interconnects/Fiber Optic Connectors/Fiber Optic Connector Housings	0	0
+2015	Heavy Duty Connectors		20	Connectors, Interconnects	1		Connectors, Interconnects/Heavy Duty Connectors	0	0
+358	Heavy Duty Connector Accessories		2015	Heavy Duty Connectors	1		Connectors, Interconnects/Heavy Duty Connectors/Heavy Duty Connector Accessories	0	0
+327	Heavy Duty Connector Assemblies		2015	Heavy Duty Connectors	1		Connectors, Interconnects/Heavy Duty Connectors/Heavy Duty Connector Assemblies	0	0
+337	Heavy Duty Connector Contacts		2015	Heavy Duty Connectors	1		Connectors, Interconnects/Heavy Duty Connectors/Heavy Duty Connector Contacts	0	0
+362	Heavy Duty Connector Frames		2015	Heavy Duty Connectors	1		Connectors, Interconnects/Heavy Duty Connectors/Heavy Duty Connector Frames	0	0
+363	Heavy Duty Connector Housings, Hoods, Bases		2015	Heavy Duty Connectors	1		Connectors, Interconnects/Heavy Duty Connectors/Heavy Duty Connector Housings, Hoods, Bases	0	0
+361	Heavy Duty Connector Inserts, Modules		2015	Heavy Duty Connectors	1		Connectors, Interconnects/Heavy Duty Connectors/Heavy Duty Connector Inserts, Modules	0	0
+2017	Keystone Connectors		20	Connectors, Interconnects	1		Connectors, Interconnects/Keystone Connectors	0	0
+426	Keystone Connector Accessories		2017	Keystone Connectors	1		Connectors, Interconnects/Keystone Connectors/Keystone Connector Accessories	0	0
+427	Keystone Faceplates, Frames		2017	Keystone Connectors	1		Connectors, Interconnects/Keystone Connectors/Keystone Faceplates, Frames	0	0
+428	Keystone Inserts		2017	Keystone Connectors	1		Connectors, Interconnects/Keystone Connectors/Keystone Inserts	0	0
+441	LGH Connectors		20	Connectors, Interconnects	1		Connectors, Interconnects/LGH Connectors	0	0
+2021	Memory Connectors		20	Connectors, Interconnects	1		Connectors, Interconnects/Memory Connectors	0	0
+413	Inline Module Sockets		2021	Memory Connectors	1		Connectors, Interconnects/Memory Connectors/Inline Module Sockets	0	0
+352	Memory Connector Accessories		2021	Memory Connectors	1		Connectors, Interconnects/Memory Connectors/Memory Connector Accessories	0	0
+421	PC Cards - Adapters		2021	Memory Connectors	1		Connectors, Interconnects/Memory Connectors/PC Cards - Adapters	0	0
+414	PC Card Sockets		2021	Memory Connectors	1		Connectors, Interconnects/Memory Connectors/PC Card Sockets	0	0
+2022	Modular Connectors		20	Connectors, Interconnects	1		Connectors, Interconnects/Modular Connectors	0	0
+442	Modular Connector Accessories		2022	Modular Connectors	1		Connectors, Interconnects/Modular Connectors/Modular Connector Accessories	0	0
+379	Modular Connector Adapters		2022	Modular Connectors	1		Connectors, Interconnects/Modular Connectors/Modular Connector Adapters	0	0
+366	Modular Connector Jacks		2022	Modular Connectors	1		Connectors, Interconnects/Modular Connectors/Modular Connector Jacks	0	0
+365	Modular Connector Jacks With Magnetics		2022	Modular Connectors	1		Connectors, Interconnects/Modular Connectors/Modular Connector Jacks With Magnetics	0	0
+403	Modular Connector Plug Housings		2022	Modular Connectors	1		Connectors, Interconnects/Modular Connectors/Modular Connector Plug Housings	0	0
+367	Modular Connector Plugs		2022	Modular Connectors	1		Connectors, Interconnects/Modular Connectors/Modular Connector Plugs	0	0
+418	Modular Connector Wiring Blocks		2022	Modular Connectors	1		Connectors, Interconnects/Modular Connectors/Modular Connector Wiring Blocks	0	0
+417	Modular Connector Wiring Blocks Accessories		2022	Modular Connectors	1		Connectors, Interconnects/Modular Connectors/Modular Connector Wiring Blocks Accessories	0	0
+2023	Photovoltaic (Solar Panel) Connectors		20	Connectors, Interconnects	1		Connectors, Interconnects/Photovoltaic (Solar Panel) Connectors	0	0
+424	Photovoltaic (Solar Panel) Connector Accessories		2023	Photovoltaic (Solar Panel) Connectors	1		Connectors, Interconnects/Photovoltaic (Solar Panel) Connectors/Photovoltaic (Solar Panel) Connector Accessories	0	0
+326	Photovoltaic (Solar Panel) Connector Assemblies		2023	Photovoltaic (Solar Panel) Connectors	1		Connectors, Interconnects/Photovoltaic (Solar Panel) Connectors/Photovoltaic (Solar Panel) Connector Assemblies	0	0
+423	Photovoltaic (Solar Panel) Connector Contacts		2023	Photovoltaic (Solar Panel) Connectors	1		Connectors, Interconnects/Photovoltaic (Solar Panel) Connectors/Photovoltaic (Solar Panel) Connector Contacts	0	0
+2024	Pluggable Connectors		20	Connectors, Interconnects	1		Connectors, Interconnects/Pluggable Connectors	0	0
+346	Pluggable Connector Accessories		2024	Pluggable Connectors	1		Connectors, Interconnects/Pluggable Connectors/Pluggable Connector Accessories	0	0
+443	Pluggable Connector Assemblies		2024	Pluggable Connectors	1		Connectors, Interconnects/Pluggable Connectors/Pluggable Connector Assemblies	0	0
+2027	Rectangular Connectors		20	Connectors, Interconnects	1		Connectors, Interconnects/Rectangular Connectors	0	0
+308	Arrays, Edge Type, Mezzanine (Board to Board)		2027	Rectangular Connectors	1		Connectors, Interconnects/Rectangular Connectors/Arrays, Edge Type, Mezzanine (Board to Board)	0	0
+317	Board In, Direct Wire to Board		2027	Rectangular Connectors	1		Connectors, Interconnects/Rectangular Connectors/Board In, Direct Wire to Board	0	0
+400	Board Spacers, Stackers (Board to Board)		2027	Rectangular Connectors	1		Connectors, Interconnects/Rectangular Connectors/Board Spacers, Stackers (Board to Board)	0	0
+316	Free Hanging, Panel Mount		2027	Rectangular Connectors	1		Connectors, Interconnects/Rectangular Connectors/Free Hanging, Panel Mount	0	0
+314	Headers, Male Pins		2027	Rectangular Connectors	1		Connectors, Interconnects/Rectangular Connectors/Headers, Male Pins	0	0
+315	Headers, Receptacles, Female Sockets		2027	Rectangular Connectors	1		Connectors, Interconnects/Rectangular Connectors/Headers, Receptacles, Female Sockets	0	0
+318	Headers, Specialty Pin		2027	Rectangular Connectors	1		Connectors, Interconnects/Rectangular Connectors/Headers, Specialty Pin	0	0
+340	Rectangular Connector Accessories		2027	Rectangular Connectors	1		Connectors, Interconnects/Rectangular Connectors/Rectangular Connector Accessories	0	0
+380	Rectangular Connector Adapters		2027	Rectangular Connectors	1		Connectors, Interconnects/Rectangular Connectors/Rectangular Connector Adapters	0	0
+331	Rectangular Connector Contacts		2027	Rectangular Connectors	1		Connectors, Interconnects/Rectangular Connectors/Rectangular Connector Contacts	0	0
+319	Rectangular Connector Housings		2027	Rectangular Connectors	1		Connectors, Interconnects/Rectangular Connectors/Rectangular Connector Housings	0	0
+408	Spring Loaded		2027	Rectangular Connectors	1		Connectors, Interconnects/Rectangular Connectors/Spring Loaded	0	0
+304	Shunts, Jumpers		20	Connectors, Interconnects	1		Connectors, Interconnects/Shunts, Jumpers	0	0
+2028	Sockets for ICs, Transistors		20	Connectors, Interconnects	1		Connectors, Interconnects/Sockets for ICs, Transistors	0	0
+409	IC Sockets		2028	Sockets for ICs, Transistors	1		Connectors, Interconnects/Sockets for ICs, Transistors/IC Sockets	0	0
+410	Socket Accessories		2028	Sockets for ICs, Transistors	1		Connectors, Interconnects/Sockets for ICs, Transistors/Socket Accessories	0	0
+411	Socket Adapters		2028	Sockets for ICs, Transistors	1		Connectors, Interconnects/Sockets for ICs, Transistors/Socket Adapters	0	0
+2029	Solid State Lighting Connectors		20	Connectors, Interconnects	1		Connectors, Interconnects/Solid State Lighting Connectors	0	0
+432	Solid State Lighting Connector Accessories		2029	Solid State Lighting Connectors	1		Connectors, Interconnects/Solid State Lighting Connectors/Solid State Lighting Connector Accessories	0	0
+444	Solid State Lighting Connector Assemblies		2029	Solid State Lighting Connectors	1		Connectors, Interconnects/Solid State Lighting Connectors/Solid State Lighting Connector Assemblies	0	0
+446	Solid State Lighting Connector Contacts		2029	Solid State Lighting Connectors	1		Connectors, Interconnects/Solid State Lighting Connectors/Solid State Lighting Connector Contacts	0	0
+2030	Terminal Blocks		20	Connectors, Interconnects	1		Connectors, Interconnects/Terminal Blocks	0	0
+368	Barrier Blocks		2030	Terminal Blocks	1		Connectors, Interconnects/Terminal Blocks/Barrier Blocks	0	0
+369	Din Rail, Channel		2030	Terminal Blocks	1		Connectors, Interconnects/Terminal Blocks/Din Rail, Channel	0	0
+370	Headers, Plugs and Sockets		2030	Terminal Blocks	1		Connectors, Interconnects/Terminal Blocks/Headers, Plugs and Sockets	0	0
+431	Interface Modules		2030	Terminal Blocks	1		Connectors, Interconnects/Terminal Blocks/Interface Modules	0	0
+425	Panel Mount		2030	Terminal Blocks	1		Connectors, Interconnects/Terminal Blocks/Panel Mount	0	0
+412	Power Distribution		2030	Terminal Blocks	1		Connectors, Interconnects/Terminal Blocks/Power Distribution	0	0
+433	Specialized		2030	Terminal Blocks	1		Connectors, Interconnects/Terminal Blocks/Specialized	0	0
+2033	Terminal Block Accessories		2030	Terminal Blocks	1		Connectors, Interconnects/Terminal Blocks/Terminal Block Accessories	0	0
+309	Accessories		2033	Terminal Block Accessories	1		Connectors, Interconnects/Terminal Blocks/Terminal Block Accessories/Accessories	0	0
+385	Terminal Block Jumpers		2033	Terminal Block Accessories	1		Connectors, Interconnects/Terminal Blocks/Terminal Block Accessories/Terminal Block Jumpers	0	0
+384	Terminal Block Marker Strips		2033	Terminal Block Accessories	1		Connectors, Interconnects/Terminal Blocks/Terminal Block Accessories/Terminal Block Marker Strips	0	0
+364	Terminal Block Wire Ferrules		2033	Terminal Block Accessories	1		Connectors, Interconnects/Terminal Blocks/Terminal Block Accessories/Terminal Block Wire Ferrules	0	0
+322	Terminal Block Adapters		2030	Terminal Blocks	1		Connectors, Interconnects/Terminal Blocks/Terminal Block Adapters	0	0
+338	Terminal Block Contacts		2030	Terminal Blocks	1		Connectors, Interconnects/Terminal Blocks/Terminal Block Contacts	0	0
+371	Wire to Board		2030	Terminal Blocks	1		Connectors, Interconnects/Terminal Blocks/Wire to Board	0	0
+422	Terminal Junction Systems		20	Connectors, Interconnects	1		Connectors, Interconnects/Terminal Junction Systems	0	0
+2031	Terminals		20	Connectors, Interconnects	1		Connectors, Interconnects/Terminals	0	0
+393	Barrel, Bullet Connectors		2031	Terminals	1		Connectors, Interconnects/Terminals/Barrel, Bullet Connectors	0	0
+402	Foil Connectors		2031	Terminals	1		Connectors, Interconnects/Terminals/Foil Connectors	0	0
+325	Housings, Boots		2031	Terminals	1		Connectors, Interconnects/Terminals/Housings, Boots	0	0
+404	Knife Connectors		2031	Terminals	1		Connectors, Interconnects/Terminals/Knife Connectors	0	0
+395	Lugs		2031	Terminals	1		Connectors, Interconnects/Terminals/Lugs	0	0
+353	Magnetic Wire Connectors		2031	Terminals	1		Connectors, Interconnects/Terminals/Magnetic Wire Connectors	0	0
+324	PC Pin Receptacles, Socket Connectors		2031	Terminals	1		Connectors, Interconnects/Terminals/PC Pin Receptacles, Socket Connectors	0	0
+323	PC Pin, Single Post Connectors		2031	Terminals	1		Connectors, Interconnects/Terminals/PC Pin, Single Post Connectors	0	0
+392	Quick Connects, Quick Disconnect Connectors		2031	Terminals	1		Connectors, Interconnects/Terminals/Quick Connects, Quick Disconnect Connectors	0	0
+394	Ring Connectors		2031	Terminals	1		Connectors, Interconnects/Terminals/Ring Connectors	0	0
+396	Screw Connectors		2031	Terminals	1		Connectors, Interconnects/Terminals/Screw Connectors	0	0
+401	Solder Lug Connectors		2031	Terminals	1		Connectors, Interconnects/Terminals/Solder Lug Connectors	0	0
+391	Spade Connectors		2031	Terminals	1		Connectors, Interconnects/Terminals/Spade Connectors	0	0
+356	Specialized Connectors		2031	Terminals	1		Connectors, Interconnects/Terminals/Specialized Connectors	0	0
+415	Terminal Accessories		2031	Terminals	1		Connectors, Interconnects/Terminals/Terminal Accessories	0	0
+405	Terminal Adapters		2031	Terminals	1		Connectors, Interconnects/Terminals/Terminal Adapters	0	0
+328	Turret Connectors		2031	Terminals	1		Connectors, Interconnects/Terminals/Turret Connectors	0	0
+397	Wire Pin Connectors		2031	Terminals	1		Connectors, Interconnects/Terminals/Wire Pin Connectors	0	0
+305	Wire Splice Connectors		2031	Terminals	1		Connectors, Interconnects/Terminals/Wire Splice Connectors	0	0
+398	Wire to Board Connectors		2031	Terminals	1		Connectors, Interconnects/Terminals/Wire to Board Connectors	0	0
+306	Terminal Strips and Turret Boards		20	Connectors, Interconnects	1		Connectors, Interconnects/Terminal Strips and Turret Boards	0	0
+2032	USB, DVI, HDMI Connectors		20	Connectors, Interconnects	1		Connectors, Interconnects/USB, DVI, HDMI Connectors	0	0
+347	USB, DVI, HDMI Connector Accessories		2032	USB, DVI, HDMI Connectors	1		Connectors, Interconnects/USB, DVI, HDMI Connectors/USB, DVI, HDMI Connector Accessories	0	0
+377	USB, DVI, HDMI Connector Adapters		2032	USB, DVI, HDMI Connectors	1		Connectors, Interconnects/USB, DVI, HDMI Connectors/USB, DVI, HDMI Connector Adapters	0	0
+312	USB, DVI, HDMI Connector Assemblies		2032	USB, DVI, HDMI Connectors	1		Connectors, Interconnects/USB, DVI, HDMI Connectors/USB, DVI, HDMI Connector Assemblies	0	0
+12	Crystals, Oscillators, Resonators				1		Crystals, Oscillators, Resonators	0	0
+175	Crystal, Oscillator, Resonator Accessories		12	Crystals, Oscillators, Resonators	1		Crystals, Oscillators, Resonators/Crystal, Oscillator, Resonator Accessories	0	0
+171	Crystals		12	Crystals, Oscillators, Resonators	1		Crystals, Oscillators, Resonators/Crystals	0	0
+172	Oscillators		12	Crystals, Oscillators, Resonators	1		Crystals, Oscillators, Resonators/Oscillators	0	0
+176	Pin Configurable/Selectable Oscillators		12	Crystals, Oscillators, Resonators	1		Crystals, Oscillators, Resonators/Pin Configurable/Selectable Oscillators	0	0
+169	Programmable Oscillators		12	Crystals, Oscillators, Resonators	1		Crystals, Oscillators, Resonators/Programmable Oscillators	0	0
+174	Resonators		12	Crystals, Oscillators, Resonators	1		Crystals, Oscillators, Resonators/Resonators	0	0
+170	Stand Alone Programmers		12	Crystals, Oscillators, Resonators	1		Crystals, Oscillators, Resonators/Stand Alone Programmers	0	0
+173	VCOs (Voltage Controlled Oscillators)		12	Crystals, Oscillators, Resonators	1		Crystals, Oscillators, Resonators/VCOs (Voltage Controlled Oscillators)	0	0
+33	Development Boards, Kits, Programmers				1		Development Boards, Kits, Programmers	0	0
+783	Accessories		33	Development Boards, Kits, Programmers	1		Development Boards, Kits, Programmers/Accessories	0	0
+2041	Evaluation Boards		33	Development Boards, Kits, Programmers	1		Development Boards, Kits, Programmers/Evaluation Boards	0	0
+791	Analog to Digital Converters (ADCs) Evaluation Boards		2041	Evaluation Boards	1		Development Boards, Kits, Programmers/Evaluation Boards/Analog to Digital Converters (ADCs) Evaluation Boards	0	0
+789	Audio Amplifier Evaluation Boards		2041	Evaluation Boards	1		Development Boards, Kits, Programmers/Evaluation Boards/Audio Amplifier Evaluation Boards	0	0
+792	DC/DC & AC/DC (Off-Line) SMPS Evaluation Boards		2041	Evaluation Boards	1		Development Boards, Kits, Programmers/Evaluation Boards/DC/DC & AC/DC (Off-Line) SMPS Evaluation Boards	0	0
+793	Digital to Analog Converters (DACs) Evaluation Boards		2041	Evaluation Boards	1		Development Boards, Kits, Programmers/Evaluation Boards/Digital to Analog Converters (DACs) Evaluation Boards	0	0
+796	Embedded Complex Logic (FPGA, CPLD) Evaluation Boards		2041	Evaluation Boards	1		Development Boards, Kits, Programmers/Evaluation Boards/Embedded Complex Logic (FPGA, CPLD) Evaluation Boards	0	0
+786	Embedded MCU, DSP Evaluation Boards		2041	Evaluation Boards	1		Development Boards, Kits, Programmers/Evaluation Boards/Embedded MCU, DSP Evaluation Boards	0	0
+787	Evaluation and Demonstration Boards and Kits		2041	Evaluation Boards	1		Development Boards, Kits, Programmers/Evaluation Boards/Evaluation and Demonstration Boards and Kits	0	0
+797	Expansion Boards, Daughter Cards		2041	Evaluation Boards	1		Development Boards, Kits, Programmers/Evaluation Boards/Expansion Boards, Daughter Cards	0	0
+794	LED Driver Evaluation Boards		2041	Evaluation Boards	1		Development Boards, Kits, Programmers/Evaluation Boards/LED Driver Evaluation Boards	0	0
+790	Linear Voltage Regulator Evaluation Boards		2041	Evaluation Boards	1		Development Boards, Kits, Programmers/Evaluation Boards/Linear Voltage Regulator Evaluation Boards	0	0
+788	Op Amp Evaluation Boards		2041	Evaluation Boards	1		Development Boards, Kits, Programmers/Evaluation Boards/Op Amp Evaluation Boards	0	0
+1165	RF Evaluation and Development Kits, Boards		2041	Evaluation Boards	1		Development Boards, Kits, Programmers/Evaluation Boards/RF Evaluation and Development Kits, Boards	0	0
+1166	RFID Evaluation and Development Kits, Boards		2041	Evaluation Boards	1		Development Boards, Kits, Programmers/Evaluation Boards/RFID Evaluation and Development Kits, Boards	0	0
+795	Sensor Evaluation Boards		2041	Evaluation Boards	1		Development Boards, Kits, Programmers/Evaluation Boards/Sensor Evaluation Boards	0	0
+799	Programmers, Emulators, and Debuggers		33	Development Boards, Kits, Programmers	1		Development Boards, Kits, Programmers/Programmers, Emulators, and Debuggers	0	0
+798	Programming Adapters, Sockets		33	Development Boards, Kits, Programmers	1		Development Boards, Kits, Programmers/Programming Adapters, Sockets	0	0
+784	Software, Services		33	Development Boards, Kits, Programmers	1		Development Boards, Kits, Programmers/Software, Services	0	0
+19	Discrete Semiconductor Products				1		Discrete Semiconductor Products	0	0
+1164	Current Regulation - Diodes, Transistors		19	Discrete Semiconductor Products	1		Discrete Semiconductor Products/Current Regulation - Diodes, Transistors	0	0
+2042	Diodes		19	Discrete Semiconductor Products	1		Discrete Semiconductor Products/Diodes	0	0
+299	Bridge Rectifiers		2042	Diodes	1		Discrete Semiconductor Products/Diodes/Bridge Rectifiers	0	0
+2085	Rectifiers		2042	Diodes	1		Discrete Semiconductor Products/Diodes/Rectifiers	0	0
+286	Diode Arrays		2085	Rectifiers	1		Discrete Semiconductor Products/Diodes/Rectifiers/Diode Arrays	0	0
+280	Single Diodes		2085	Rectifiers	1		Discrete Semiconductor Products/Diodes/Rectifiers/Single Diodes	0	0
+284	RF Diodes		2042	Diodes	1		Discrete Semiconductor Products/Diodes/RF Diodes	0	0
+282	Variable Capacitance (Varicaps, Varactors)		2042	Diodes	1		Discrete Semiconductor Products/Diodes/Variable Capacitance (Varicaps, Varactors)	0	0
+2086	Zener		2042	Diodes	1		Discrete Semiconductor Products/Diodes/Zener	0	0
+287	Single Zener Diodes		2086	Zener	1		Discrete Semiconductor Products/Diodes/Zener/Single Zener Diodes	0	0
+295	Zener Diode Arrays		2086	Zener	1		Discrete Semiconductor Products/Diodes/Zener/Zener Diode Arrays	0	0
+296	Power Driver Modules		19	Discrete Semiconductor Products	1		Discrete Semiconductor Products/Power Driver Modules	0	0
+2043	Thyristors		19	Discrete Semiconductor Products	1		Discrete Semiconductor Products/Thyristors	0	0
+274	DIACs, SIDACs		2043	Thyristors	1		Discrete Semiconductor Products/Thyristors/DIACs, SIDACs	0	0
+281	SCRs		2043	Thyristors	1		Discrete Semiconductor Products/Thyristors/SCRs	0	0
+298	SCRs - Modules		2043	Thyristors	1		Discrete Semiconductor Products/Thyristors/SCRs - Modules	0	0
+300	TRIACs		2043	Thyristors	1		Discrete Semiconductor Products/Thyristors/TRIACs	0	0
+2045	Transistors		19	Discrete Semiconductor Products	1		Discrete Semiconductor Products/Transistors	0	0
+2087	Bipolar (BJT)		2045	Transistors	1		Discrete Semiconductor Products/Transistors/Bipolar (BJT)	0	0
+283	Bipolar RF Transistors		2087	Bipolar (BJT)	1		Discrete Semiconductor Products/Transistors/Bipolar (BJT)/Bipolar RF Transistors	0	0
+277	Bipolar Transistor Arrays		2087	Bipolar (BJT)	1		Discrete Semiconductor Products/Transistors/Bipolar (BJT)/Bipolar Transistor Arrays	0	0
+293	Bipolar Transistor Arrays, Pre-Biased		2087	Bipolar (BJT)	1		Discrete Semiconductor Products/Transistors/Bipolar (BJT)/Bipolar Transistor Arrays, Pre-Biased	0	0
+276	Single Bipolar Transistors		2087	Bipolar (BJT)	1		Discrete Semiconductor Products/Transistors/Bipolar (BJT)/Single Bipolar Transistors	0	0
+292	Single, Pre-Biased Bipolar Transistors		2087	Bipolar (BJT)	1		Discrete Semiconductor Products/Transistors/Bipolar (BJT)/Single, Pre-Biased Bipolar Transistors	0	0
+2088	FETs, MOSFETs		2045	Transistors	1		Discrete Semiconductor Products/Transistors/FETs, MOSFETs	0	0
+289	FET, MOSFET Arrays		2088	FETs, MOSFETs	1		Discrete Semiconductor Products/Transistors/FETs, MOSFETs/FET, MOSFET Arrays	0	0
+285	RF FETs, MOSFETs		2088	FETs, MOSFETs	1		Discrete Semiconductor Products/Transistors/FETs, MOSFETs/RF FETs, MOSFETs	0	0
+278	Single FETs, MOSFETs		2088	FETs, MOSFETs	1		Discrete Semiconductor Products/Transistors/FETs, MOSFETs/Single FETs, MOSFETs	0	0
+2089	IGBTs		2045	Transistors	1		Discrete Semiconductor Products/Transistors/IGBTs	0	0
+291	IGBT Arrays		2089	IGBTs	1		Discrete Semiconductor Products/Transistors/IGBTs/IGBT Arrays	0	0
+297	IGBT Modules		2089	IGBTs	1		Discrete Semiconductor Products/Transistors/IGBTs/IGBT Modules	0	0
+279	Single IGBTs		2089	IGBTs	1		Discrete Semiconductor Products/Transistors/IGBTs/Single IGBTs	0	0
+288	JFETs		2045	Transistors	1		Discrete Semiconductor Products/Transistors/JFETs	0	0
+290	Programmable Unijunction		2045	Transistors	1		Discrete Semiconductor Products/Transistors/Programmable Unijunction	0	0
+294	Special Purpose		2045	Transistors	1		Discrete Semiconductor Products/Transistors/Special Purpose	0	0
+45	Embedded Computers				1		Embedded Computers	0	0
+931	Embedded Computer Accessories		45	Embedded Computers	1		Embedded Computers/Embedded Computer Accessories	0	0
+932	Embedded Computer Interface Boards		45	Embedded Computers	1		Embedded Computers/Embedded Computer Interface Boards	0	0
+933	Single Board Computers (SBCs)		45	Embedded Computers	1		Embedded Computers/Single Board Computers (SBCs)	0	0
+16	Fans, Thermal Management				1		Fans, Thermal Management	0	0
+2046	Fans		16	Fans, Thermal Management	1		Fans, Thermal Management/Fans	0	0
+216	AC Fans		2046	Fans	1		Fans, Thermal Management/Fans/AC Fans	0	0
+217	DC Brushless Fans (BLDC)		2046	Fans	1		Fans, Thermal Management/Fans/DC Brushless Fans (BLDC)	0	0
+223	Fan Accessories		2046	Fans	1		Fans, Thermal Management/Fans/Fan Accessories	0	0
+974	Fan Cords		2046	Fans	1		Fans, Thermal Management/Fans/Fan Cords	0	0
+221	Finger Guards, Filters & Sleeves		2046	Fans	1		Fans, Thermal Management/Fans/Finger Guards, Filters & Sleeves	0	0
+1005	Heat Tape, Heat Blankets and Heaters		16	Fans, Thermal Management	1		Fans, Thermal Management/Heat Tape, Heat Blankets and Heaters	0	0
+2047	Thermal		16	Fans, Thermal Management	1		Fans, Thermal Management/Thermal	0	0
+220	Adhesives, Epoxies, Greases, Pastes		2047	Thermal	1		Fans, Thermal Management/Thermal/Adhesives, Epoxies, Greases, Pastes	0	0
+977	Heat Pipes, Vapor Chambers		2047	Thermal	1		Fans, Thermal Management/Thermal/Heat Pipes, Vapor Chambers	0	0
+219	Heat Sinks		2047	Thermal	1		Fans, Thermal Management/Thermal/Heat Sinks	0	0
+226	Liquid Cooling, Heating		2047	Thermal	1		Fans, Thermal Management/Thermal/Liquid Cooling, Heating	0	0
+218	Pads, Sheets		2047	Thermal	1		Fans, Thermal Management/Thermal/Pads, Sheets	0	0
+224	Thermal Accessories		2047	Thermal	1		Fans, Thermal Management/Thermal/Thermal Accessories	0	0
+225	Thermoelectric, Peltier Assemblies		2047	Thermal	1		Fans, Thermal Management/Thermal/Thermoelectric, Peltier Assemblies	0	0
+222	Thermoelectric, Peltier Modules		2047	Thermal	1		Fans, Thermal Management/Thermal/Thermoelectric, Peltier Modules	0	0
+36	Filters				1		Filters	0	0
+840	Cable Ferrites		36	Filters	1		Filters/Cable Ferrites	0	0
+846	Ceramic Filters		36	Filters	1		Filters/Ceramic Filters	0	0
+839	Common Mode Chokes		36	Filters	1		Filters/Common Mode Chokes	0	0
+842	DSL Filters		36	Filters	1		Filters/DSL Filters	0	0
+835	EMI/RFI Filters (LC, RC Networks)		36	Filters	1		Filters/EMI/RFI Filters (LC, RC Networks)	0	0
+845	Feed Through Capacitors		36	Filters	1		Filters/Feed Through Capacitors	0	0
+841	Ferrite Beads and Chips		36	Filters	1		Filters/Ferrite Beads and Chips	0	0
+843	Ferrite Disks and Plates		36	Filters	1		Filters/Ferrite Disks and Plates	0	0
+834	Filter Accessories		36	Filters	1		Filters/Filter Accessories	0	0
+837	Helical Filters		36	Filters	1		Filters/Helical Filters	0	0
+847	Monolithic Crystals		36	Filters	1		Filters/Monolithic Crystals	0	0
+838	Power Line Filter Modules		36	Filters	1		Filters/Power Line Filter Modules	0	0
+844	RF Filters		36	Filters	1		Filters/RF Filters	0	0
+836	SAW Filters		36	Filters	1		Filters/SAW Filters	0	0
+26	Hardware, Fasteners, Accessories				1		Hardware, Fasteners, Accessories	0	0
+569	Accessories		26	Hardware, Fasteners, Accessories	1		Hardware, Fasteners, Accessories/Accessories	0	0
+979	Bearings		26	Hardware, Fasteners, Accessories	1		Hardware, Fasteners, Accessories/Bearings	0	0
+582	Board Spacers, Standoffs		26	Hardware, Fasteners, Accessories	1		Hardware, Fasteners, Accessories/Board Spacers, Standoffs	0	0
+578	Board Supports		26	Hardware, Fasteners, Accessories	1		Hardware, Fasteners, Accessories/Board Supports	0	0
+570	Bumpers, Feet, Pads, Grips		26	Hardware, Fasteners, Accessories	1		Hardware, Fasteners, Accessories/Bumpers, Feet, Pads, Grips	0	0
+954	Clips, Hangers, Hooks		26	Hardware, Fasteners, Accessories	1		Hardware, Fasteners, Accessories/Clips, Hangers, Hooks	0	0
+585	Component Insulators, Mounts, Spacers		26	Hardware, Fasteners, Accessories	1		Hardware, Fasteners, Accessories/Component Insulators, Mounts, Spacers	0	0
+580	DIN Rail Channel		26	Hardware, Fasteners, Accessories	1		Hardware, Fasteners, Accessories/DIN Rail Channel	0	0
+587	Foam		26	Hardware, Fasteners, Accessories	1		Hardware, Fasteners, Accessories/Foam	0	0
+976	Hinges		26	Hardware, Fasteners, Accessories	1		Hardware, Fasteners, Accessories/Hinges	0	0
+581	Hole Plugs - Tapered Caps		26	Hardware, Fasteners, Accessories	1		Hardware, Fasteners, Accessories/Hole Plugs - Tapered Caps	0	0
+568	Knobs		26	Hardware, Fasteners, Accessories	1		Hardware, Fasteners, Accessories/Knobs	0	0
+579	Miscellaneous		26	Hardware, Fasteners, Accessories	1		Hardware, Fasteners, Accessories/Miscellaneous	0	0
+574	Mounting Brackets		26	Hardware, Fasteners, Accessories	1		Hardware, Fasteners, Accessories/Mounting Brackets	0	0
+573	Nuts		26	Hardware, Fasteners, Accessories	1		Hardware, Fasteners, Accessories/Nuts	0	0
+967	Reclosable Fasteners		26	Hardware, Fasteners, Accessories	1		Hardware, Fasteners, Accessories/Reclosable Fasteners	0	0
+576	Rivets		26	Hardware, Fasteners, Accessories	1		Hardware, Fasteners, Accessories/Rivets	0	0
+584	Screw Grommets		26	Hardware, Fasteners, Accessories	1		Hardware, Fasteners, Accessories/Screw Grommets	0	0
+572	Screws, Bolts		26	Hardware, Fasteners, Accessories	1		Hardware, Fasteners, Accessories/Screws, Bolts	0	0
+1172	Seals - Cord Stock		26	Hardware, Fasteners, Accessories	1		Hardware, Fasteners, Accessories/Seals - Cord Stock	0	0
+1171	Seals - O-Rings		26	Hardware, Fasteners, Accessories	1		Hardware, Fasteners, Accessories/Seals - O-Rings	0	0
+3004	Springs		26	Hardware, Fasteners, Accessories	1		Hardware, Fasteners, Accessories/Springs	0	0
+1002	Compression, Tapered Springs		3004	Springs	1		Hardware, Fasteners, Accessories/Springs/Compression, Tapered Springs	0	0
+1006	Extension, Drawbar Springs		3004	Springs	1		Hardware, Fasteners, Accessories/Springs/Extension, Drawbar Springs	0	0
+1007	Torsion Springs		3004	Springs	1		Hardware, Fasteners, Accessories/Springs/Torsion Springs	0	0
+586	Structural, Motion Hardware		26	Hardware, Fasteners, Accessories	1		Hardware, Fasteners, Accessories/Structural, Motion Hardware	0	0
+2048	Washers		26	Hardware, Fasteners, Accessories	1		Hardware, Fasteners, Accessories/Washers	0	0
+583	Bushing, Shoulder Washers		2048	Washers	1		Hardware, Fasteners, Accessories/Washers/Bushing, Shoulder Washers	0	0
+571	Standard Washers		2048	Washers	1		Hardware, Fasteners, Accessories/Washers/Standard Washers	0	0
+4	Inductors, Coils, Chokes				1		Inductors, Coils, Chokes	0	0
+72	Adjustable Inductors		4	Inductors, Coils, Chokes	1		Inductors, Coils, Chokes/Adjustable Inductors	0	0
+73	Arrays, Signal Transformers		4	Inductors, Coils, Chokes	1		Inductors, Coils, Chokes/Arrays, Signal Transformers	0	0
+74	Delay Lines		4	Inductors, Coils, Chokes	1		Inductors, Coils, Chokes/Delay Lines	0	0
+71	Fixed Inductors		4	Inductors, Coils, Chokes	1		Inductors, Coils, Chokes/Fixed Inductors	0	0
+75	Wireless Charging Coils		4	Inductors, Coils, Chokes	1		Inductors, Coils, Chokes/Wireless Charging Coils	0	0
+34	Industrial Automation and Controls				1		Industrial Automation and Controls	0	0
+1014	Cable and Hose Carriers, Drag Chains		34	Industrial Automation and Controls	1		Industrial Automation and Controls/Cable and Hose Carriers, Drag Chains	0	0
+808	Cam Positioners		34	Industrial Automation and Controls	1		Industrial Automation and Controls/Cam Positioners	0	0
+2049	Controllers		34	Industrial Automation and Controls	1		Industrial Automation and Controls/Controllers	0	0
+823	Cable Assemblies		2049	Controllers	1		Industrial Automation and Controls/Controllers/Cable Assemblies	0	0
+816	Controller Accessories		2049	Controllers	1		Industrial Automation and Controls/Controllers/Controller Accessories	0	0
+806	Liquid, Level		2049	Controllers	1		Industrial Automation and Controls/Controllers/Liquid, Level	0	0
+822	Machine Safety		2049	Controllers	1		Industrial Automation and Controls/Controllers/Machine Safety	0	0
+821	PLC Modules		2049	Controllers	1		Industrial Automation and Controls/Controllers/PLC Modules	0	0
+801	Process, Temperature		2049	Controllers	1		Industrial Automation and Controls/Controllers/Process, Temperature	0	0
+814	Programmable (PLC, PAC)		2049	Controllers	1		Industrial Automation and Controls/Controllers/Programmable (PLC, PAC)	0	0
+1013	Greases and Lubricants		34	Industrial Automation and Controls	1		Industrial Automation and Controls/Greases and Lubricants	0	0
+2050	Human Machine Interface (HMI)		34	Industrial Automation and Controls	1		Industrial Automation and Controls/Human Machine Interface (HMI)	0	0
+947	Human Machine Interface (HMI) Accessories		2050	Human Machine Interface (HMI)	1		Industrial Automation and Controls/Human Machine Interface (HMI)/Human Machine Interface (HMI) Accessories	0	0
+946	Machine Interface		2050	Human Machine Interface (HMI)	1		Industrial Automation and Controls/Human Machine Interface (HMI)/Machine Interface	0	0
+800	Industrial Automation Accessories		34	Industrial Automation and Controls	1		Industrial Automation and Controls/Industrial Automation Accessories	0	0
+815	Industrial Equipment		34	Industrial Automation and Controls	1		Industrial Automation and Controls/Industrial Equipment	0	0
+2051	Industrial Lighting		34	Industrial Automation and Controls	1		Industrial Automation and Controls/Industrial Lighting	0	0
+1063	Pick to Light		2051	Industrial Lighting	1		Industrial Automation and Controls/Industrial Lighting/Pick to Light	0	0
+1061	Task Lighting		2051	Industrial Lighting	1		Industrial Automation and Controls/Industrial Lighting/Task Lighting	0	0
+2052	Industrial Lighting Control		34	Industrial Automation and Controls	1		Industrial Automation and Controls/Industrial Lighting Control	0	0
+819	Lighting Control		2052	Industrial Lighting Control	1		Industrial Automation and Controls/Industrial Lighting Control/Lighting Control	0	0
+820	Lighting Control Accessories		2052	Industrial Lighting Control	1		Industrial Automation and Controls/Industrial Lighting Control/Lighting Control Accessories	0	0
+1062	Industrial PCs		34	Industrial Automation and Controls	1		Industrial Automation and Controls/Industrial PCs	0	0
+804	Industrial Specialized		34	Industrial Automation and Controls	1		Industrial Automation and Controls/Industrial Specialized	0	0
+978	Liquid Filtration		34	Industrial Automation and Controls	1		Industrial Automation and Controls/Liquid Filtration	0	0
+2091	Machine Safety		34	Industrial Automation and Controls	1		Industrial Automation and Controls/Machine Safety	0	0
+1058	Bumpers and Edges		2091	Machine Safety	1		Industrial Automation and Controls/Machine Safety/Bumpers and Edges	0	0
+988	Laser Scanners		2091	Machine Safety	1		Industrial Automation and Controls/Machine Safety/Laser Scanners	0	0
+959	Light Curtains		2091	Machine Safety	1		Industrial Automation and Controls/Machine Safety/Light Curtains	0	0
+1123	Machine Safety Accessories		2091	Machine Safety	1		Industrial Automation and Controls/Machine Safety/Machine Safety Accessories	0	0
+1057	Mats		2091	Machine Safety	1		Industrial Automation and Controls/Machine Safety/Mats	0	0
+2053	Machine Vision		34	Industrial Automation and Controls	1		Industrial Automation and Controls/Machine Vision	0	0
+1059	Bar Code Readers		2053	Machine Vision	1		Industrial Automation and Controls/Machine Vision/Bar Code Readers	0	0
+828	Camera/Sensors		2053	Machine Vision	1		Industrial Automation and Controls/Machine Vision/Camera/Sensors	0	0
+827	Control/Processing		2053	Machine Vision	1		Industrial Automation and Controls/Machine Vision/Control/Processing	0	0
+826	Machine Vision Lighting		2053	Machine Vision	1		Industrial Automation and Controls/Machine Vision/Machine Vision Lighting	0	0
+2054	Monitors		34	Industrial Automation and Controls	1		Industrial Automation and Controls/Monitors	0	0
+807	Current/Voltage Transducer Monitors		2054	Monitors	1		Industrial Automation and Controls/Monitors/Current/Voltage Transducer Monitors	0	0
+811	Relay Output Monitors		2054	Monitors	1		Industrial Automation and Controls/Monitors/Relay Output Monitors	0	0
+2055	Panel Meters		34	Industrial Automation and Controls	1		Industrial Automation and Controls/Panel Meters	0	0
+802	Counters, Hour Meters		2055	Panel Meters	1		Industrial Automation and Controls/Panel Meters/Counters, Hour Meters	0	0
+805	Meters		2055	Panel Meters	1		Industrial Automation and Controls/Panel Meters/Meters	0	0
+818	Panel Meter Accessories		2055	Panel Meters	1		Industrial Automation and Controls/Panel Meters/Panel Meter Accessories	0	0
+2056	Pneumatics, Hydraulics		34	Industrial Automation and Controls	1		Industrial Automation and Controls/Pneumatics, Hydraulics	0	0
+1054	Actuators/Cylilnders		2056	Pneumatics, Hydraulics	1		Industrial Automation and Controls/Pneumatics, Hydraulics/Actuators/Cylilnders	0	0
+1052	Fittings, Couplings, and Distributors		2056	Pneumatics, Hydraulics	1		Industrial Automation and Controls/Pneumatics, Hydraulics/Fittings, Couplings, and Distributors	0	0
+1053	Pneumatics Accessories		2056	Pneumatics, Hydraulics	1		Industrial Automation and Controls/Pneumatics, Hydraulics/Pneumatics Accessories	0	0
+1051	Preparation/Treatment		2056	Pneumatics, Hydraulics	1		Industrial Automation and Controls/Pneumatics, Hydraulics/Preparation/Treatment	0	0
+1022	Shock Absorbers, Dampers		2056	Pneumatics, Hydraulics	1		Industrial Automation and Controls/Pneumatics, Hydraulics/Shock Absorbers, Dampers	0	0
+1021	Tubing, Hose, Piping		2056	Pneumatics, Hydraulics	1		Industrial Automation and Controls/Pneumatics, Hydraulics/Tubing, Hose, Piping	0	0
+809	Valves and Control		2056	Pneumatics, Hydraulics	1		Industrial Automation and Controls/Pneumatics, Hydraulics/Valves and Control	0	0
+810	Protection Relays & Systems		34	Industrial Automation and Controls	1		Industrial Automation and Controls/Protection Relays & Systems	0	0
+2057	Robotics		34	Industrial Automation and Controls	1		Industrial Automation and Controls/Robotics	0	0
+994	End Effectors		2057	Robotics	1		Industrial Automation and Controls/Robotics/End Effectors	0	0
+995	Robotics Accessories		2057	Robotics	1		Industrial Automation and Controls/Robotics/Robotics Accessories	0	0
+993	Robots		2057	Robotics	1		Industrial Automation and Controls/Robotics/Robots	0	0
+1020	Signal Conditioners and Isolators		34	Industrial Automation and Controls	1		Industrial Automation and Controls/Signal Conditioners and Isolators	0	0
+953	Stackable Tower Lighting, Beacons, and Components		34	Industrial Automation and Controls	1		Industrial Automation and Controls/Stackable Tower Lighting, Beacons, and Components	0	0
+952	Time Delay Relays		34	Industrial Automation and Controls	1		Industrial Automation and Controls/Time Delay Relays	0	0
+49	Industrial Supplies				1		Industrial Supplies	0	0
+1076	Carts and Trucks		49	Industrial Supplies	1		Industrial Supplies/Carts and Trucks	0	0
+2092	Dock and Warehouse		49	Industrial Supplies	1		Industrial Supplies/Dock and Warehouse	0	0
+1099	Air Curtain Doors		2092	Dock and Warehouse	1		Industrial Supplies/Dock and Warehouse/Air Curtain Doors	0	0
+1096	Dock Equipment		2092	Dock and Warehouse	1		Industrial Supplies/Dock and Warehouse/Dock Equipment	0	0
+1078	Ladders, Steps, and Platforms		2092	Dock and Warehouse	1		Industrial Supplies/Dock and Warehouse/Ladders, Steps, and Platforms	0	0
+1155	Mirrors		2092	Dock and Warehouse	1		Industrial Supplies/Dock and Warehouse/Mirrors	0	0
+2093	Electrical		49	Industrial Supplies	1		Industrial Supplies/Electrical	0	0
+1079	Cords, Wires and Accessories		2093	Electrical	1		Industrial Supplies/Electrical/Cords, Wires and Accessories	0	0
+1080	Generators		2093	Electrical	1		Industrial Supplies/Electrical/Generators	0	0
+1081	Lighting		2093	Electrical	1		Industrial Supplies/Electrical/Lighting	0	0
+1082	Lighting Accessories		2093	Electrical	1		Industrial Supplies/Electrical/Lighting Accessories	0	0
+2094	Fans		49	Industrial Supplies	1		Industrial Supplies/Fans	0	0
+1100	Agricultural, Dock and Exhaust		2094	Fans	1		Industrial Supplies/Fans/Agricultural, Dock and Exhaust	0	0
+1101	Blowers and Floor Dryers		2094	Fans	1		Industrial Supplies/Fans/Blowers and Floor Dryers	0	0
+1103	Components and Accessories		2094	Fans	1		Industrial Supplies/Fans/Components and Accessories	0	0
+1102	Components - Motors		2094	Fans	1		Industrial Supplies/Fans/Components - Motors	0	0
+1104	Household, Office and Pedestal Fans		2094	Fans	1		Industrial Supplies/Fans/Household, Office and Pedestal Fans	0	0
+2095	HVAC		49	Industrial Supplies	1		Industrial Supplies/HVAC	0	0
+1105	Air Conditioners		2095	HVAC	1		Industrial Supplies/HVAC/Air Conditioners	0	0
+1106	Air Filters		2095	HVAC	1		Industrial Supplies/HVAC/Air Filters	0	0
+1107	Air Handlers, Furnaces		2095	HVAC	1		Industrial Supplies/HVAC/Air Handlers, Furnaces	0	0
+1108	Air Purifiers, Dehumidifiers and Humidifiers		2095	HVAC	1		Industrial Supplies/HVAC/Air Purifiers, Dehumidifiers and Humidifiers	0	0
+1109	Heaters		2095	HVAC	1		Industrial Supplies/HVAC/Heaters	0	0
+1124	HVAC Parts and Accessories		2095	HVAC	1		Industrial Supplies/HVAC/HVAC Parts and Accessories	0	0
+1110	Janitorial and Maintenance Products		49	Industrial Supplies	1		Industrial Supplies/Janitorial and Maintenance Products	0	0
+2096	Maintenance		49	Industrial Supplies	1		Industrial Supplies/Maintenance	0	0
+1083	Air Compressor Tools and Accessories		2096	Maintenance	1		Industrial Supplies/Maintenance/Air Compressor Tools and Accessories	0	0
+1085	Magnets		2096	Maintenance	1		Industrial Supplies/Maintenance/Magnets	0	0
+1086	Mats		2096	Maintenance	1		Industrial Supplies/Maintenance/Mats	0	0
+2097	Office Equipment		49	Industrial Supplies	1		Industrial Supplies/Office Equipment	0	0
+1126	File Cabinets, Bookcases		2097	Office Equipment	1		Industrial Supplies/Office Equipment/File Cabinets, Bookcases	0	0
+1127	Food Storage and Preparation		2097	Office Equipment	1		Industrial Supplies/Office Equipment/Food Storage and Preparation	0	0
+1128	Office Supplies		2097	Office Equipment	1		Industrial Supplies/Office Equipment/Office Supplies	0	0
+1129	Water Fountains and Refilling Stations		2097	Office Equipment	1		Industrial Supplies/Office Equipment/Water Fountains and Refilling Stations	0	0
+2098	Office Furniture		49	Industrial Supplies	1		Industrial Supplies/Office Furniture	0	0
+1131	Partitions and Accessories		2098	Office Furniture	1		Industrial Supplies/Office Furniture/Partitions and Accessories	0	0
+1132	Safes, Secure Storage		2098	Office Furniture	1		Industrial Supplies/Office Furniture/Safes, Secure Storage	0	0
+1133	Tables		2098	Office Furniture	1		Industrial Supplies/Office Furniture/Tables	0	0
+2099	Outdoor Products		49	Industrial Supplies	1		Industrial Supplies/Outdoor Products	0	0
+1134	Bikes, Racks and Locks		2099	Outdoor Products	1		Industrial Supplies/Outdoor Products/Bikes, Racks and Locks	0	0
+1135	Canopies, Shelters and Sheds		2099	Outdoor Products	1		Industrial Supplies/Outdoor Products/Canopies, Shelters and Sheds	0	0
+1144	Cans, Trash Cans and Covers		2099	Outdoor Products	1		Industrial Supplies/Outdoor Products/Cans, Trash Cans and Covers	0	0
+1136	Cold Weather Products, Clothing		2099	Outdoor Products	1		Industrial Supplies/Outdoor Products/Cold Weather Products, Clothing	0	0
+1137	Decor		2099	Outdoor Products	1		Industrial Supplies/Outdoor Products/Decor	0	0
+1138	Lawn Tools		2099	Outdoor Products	1		Industrial Supplies/Outdoor Products/Lawn Tools	0	0
+1139	Miscellaneous		2099	Outdoor Products	1		Industrial Supplies/Outdoor Products/Miscellaneous	0	0
+1140	Mowers, Vacuums, Blowers and Cutters		2099	Outdoor Products	1		Industrial Supplies/Outdoor Products/Mowers, Vacuums, Blowers and Cutters	0	0
+1141	Outdoor Furniture		2099	Outdoor Products	1		Industrial Supplies/Outdoor Products/Outdoor Furniture	0	0
+1142	Parking Lot and Safety		2099	Outdoor Products	1		Industrial Supplies/Outdoor Products/Parking Lot and Safety	0	0
+1143	Snow and Ice Removal		2099	Outdoor Products	1		Industrial Supplies/Outdoor Products/Snow and Ice Removal	0	0
+2100	Product, Material Handling and Storage		49	Industrial Supplies	1		Industrial Supplies/Product, Material Handling and Storage	0	0
+1145	Building/Construction Products		2100	Product, Material Handling and Storage	1		Industrial Supplies/Product, Material Handling and Storage/Building/Construction Products	0	0
+1089	Dollies		2100	Product, Material Handling and Storage	1		Industrial Supplies/Product, Material Handling and Storage/Dollies	0	0
+1090	Drum Accessories		2100	Product, Material Handling and Storage	1		Industrial Supplies/Product, Material Handling and Storage/Drum Accessories	0	0
+1091	Drum Cradles, Lifts, Trucks		2100	Product, Material Handling and Storage	1		Industrial Supplies/Product, Material Handling and Storage/Drum Cradles, Lifts, Trucks	0	0
+1092	Drum Pumps		2100	Product, Material Handling and Storage	1		Industrial Supplies/Product, Material Handling and Storage/Drum Pumps	0	0
+1093	Drums, Pails		2100	Product, Material Handling and Storage	1		Industrial Supplies/Product, Material Handling and Storage/Drums, Pails	0	0
+1146	Pallets		2100	Product, Material Handling and Storage	1		Industrial Supplies/Product, Material Handling and Storage/Pallets	0	0
+1148	Rack, Shelving, Stand Accessories		2100	Product, Material Handling and Storage	1		Industrial Supplies/Product, Material Handling and Storage/Rack, Shelving, Stand Accessories	0	0
+1147	Racks, Shelving, Stands		2100	Product, Material Handling and Storage	1		Industrial Supplies/Product, Material Handling and Storage/Racks, Shelving, Stands	0	0
+1149	Storage Containers and Bins		2100	Product, Material Handling and Storage	1		Industrial Supplies/Product, Material Handling and Storage/Storage Containers and Bins	0	0
+2101	Safety		49	Industrial Supplies	1		Industrial Supplies/Safety	0	0
+1094	Absorbents, Trays and Cleaners		2101	Safety	1		Industrial Supplies/Safety/Absorbents, Trays and Cleaners	0	0
+1095	Exit Signs and Emergency Lights		2101	Safety	1		Industrial Supplies/Safety/Exit Signs and Emergency Lights	0	0
+1150	Fuel, Oil and General Purpose Cans		2101	Safety	1		Industrial Supplies/Safety/Fuel, Oil and General Purpose Cans	0	0
+1151	Shipping and Packaging Products		49	Industrial Supplies	1		Industrial Supplies/Shipping and Packaging Products	0	0
+2103	Storage Containers & Bins		49	Industrial Supplies	1		Industrial Supplies/Storage Containers & Bins	0	0
+1152	Garage Storage and Organization		2103	Storage Containers & Bins	1		Industrial Supplies/Storage Containers & Bins/Garage Storage and Organization	0	0
+1153	Vehicle Maintenance and Customization Products		49	Industrial Supplies	1		Industrial Supplies/Vehicle Maintenance and Customization Products	0	0
+2104	Workstation, Office Furniture and Equipment		49	Industrial Supplies	1		Industrial Supplies/Workstation, Office Furniture and Equipment	0	0
+1116	Carts and Stands		2104	Workstation, Office Furniture and Equipment	1		Industrial Supplies/Workstation, Office Furniture and Equipment/Carts and Stands	0	0
+1117	Chairs and Stools		2104	Workstation, Office Furniture and Equipment	1		Industrial Supplies/Workstation, Office Furniture and Equipment/Chairs and Stools	0	0
+1118	Computer Workstations		2104	Workstation, Office Furniture and Equipment	1		Industrial Supplies/Workstation, Office Furniture and Equipment/Computer Workstations	0	0
+1154	Hazardous Material, Safety Cabinets		2104	Workstation, Office Furniture and Equipment	1		Industrial Supplies/Workstation, Office Furniture and Equipment/Hazardous Material, Safety Cabinets	0	0
+1087	Lockers, Storage Cabinets and Accessories		2104	Workstation, Office Furniture and Equipment	1		Industrial Supplies/Workstation, Office Furniture and Equipment/Lockers, Storage Cabinets and Accessories	0	0
+1088	Turntables		2104	Workstation, Office Furniture and Equipment	1		Industrial Supplies/Workstation, Office Furniture and Equipment/Turntables	0	0
+32	Integrated Circuits (ICs)				1		Integrated Circuits (ICs)	0	0
+2006	Clock/Timing		32	Integrated Circuits (ICs)	1		Integrated Circuits (ICs)/Clock/Timing	0	0
+763	Application Specific Clock/Timing		2006	Clock/Timing	1		Integrated Circuits (ICs)/Clock/Timing/Application Specific Clock/Timing	0	0
+764	Clock Buffers, Drivers		2006	Clock/Timing	1		Integrated Circuits (ICs)/Clock/Timing/Clock Buffers, Drivers	0	0
+728	Clock Generators, PLLs, Frequency Synthesizers		2006	Clock/Timing	1		Integrated Circuits (ICs)/Clock/Timing/Clock Generators, PLLs, Frequency Synthesizers	0	0
+688	Delay Lines		2006	Clock/Timing	1		Integrated Circuits (ICs)/Clock/Timing/Delay Lines	0	0
+762	IC Batteries		2006	Clock/Timing	1		Integrated Circuits (ICs)/Clock/Timing/IC Batteries	0	0
+689	Programmable Timers and Oscillators		2006	Clock/Timing	1		Integrated Circuits (ICs)/Clock/Timing/Programmable Timers and Oscillators	0	0
+690	Real Time Clocks		2006	Clock/Timing	1		Integrated Circuits (ICs)/Clock/Timing/Real Time Clocks	0	0
+2009	Data Acquisition		32	Integrated Circuits (ICs)	1		Integrated Circuits (ICs)/Data Acquisition	0	0
+768	ADCs/DACs - Special Purpose		2009	Data Acquisition	1		Integrated Circuits (ICs)/Data Acquisition/ADCs/DACs - Special Purpose	0	0
+724	Analog Front End (AFE)		2009	Data Acquisition	1		Integrated Circuits (ICs)/Data Acquisition/Analog Front End (AFE)	0	0
+700	Analog to Digital Converters (ADC)		2009	Data Acquisition	1		Integrated Circuits (ICs)/Data Acquisition/Analog to Digital Converters (ADC)	0	0
+717	Digital Potentiometers		2009	Data Acquisition	1		Integrated Circuits (ICs)/Data Acquisition/Digital Potentiometers	0	0
+701	Digital to Analog Converters (DAC)		2009	Data Acquisition	1		Integrated Circuits (ICs)/Data Acquisition/Digital to Analog Converters (DAC)	0	0
+775	Touch Screen Controllers		2009	Data Acquisition	1		Integrated Circuits (ICs)/Data Acquisition/Touch Screen Controllers	0	0
+2012	Embedded		32	Integrated Circuits (ICs)	1		Integrated Circuits (ICs)/Embedded	0	0
+769	Application Specific Microcontrollers		2012	Embedded	1		Integrated Circuits (ICs)/Embedded/Application Specific Microcontrollers	0	0
+695	CPLDs (Complex Programmable Logic Devices)		2012	Embedded	1		Integrated Circuits (ICs)/Embedded/CPLDs (Complex Programmable Logic Devices)	0	0
+698	DSP (Digital Signal Processors)		2012	Embedded	1		Integrated Circuits (ICs)/Embedded/DSP (Digital Signal Processors)	0	0
+696	FPGAs (Field Programmable Gate Array)		2012	Embedded	1		Integrated Circuits (ICs)/Embedded/FPGAs (Field Programmable Gate Array)	0	0
+767	FPGAs (Field Programmable Gate Array) with Microcontrollers		2012	Embedded	1		Integrated Circuits (ICs)/Embedded/FPGAs (Field Programmable Gate Array) with Microcontrollers	0	0
+685	Microcontrollers		2012	Embedded	1		Integrated Circuits (ICs)/Embedded/Microcontrollers	0	0
+721	Microcontrollers, Microprocessor, FPGA Modules		2012	Embedded	1		Integrated Circuits (ICs)/Embedded/Microcontrollers, Microprocessor, FPGA Modules	0	0
+694	Microprocessors		2012	Embedded	1		Integrated Circuits (ICs)/Embedded/Microprocessors	0	0
+719	PLDs (Programmable Logic Device)		2012	Embedded	1		Integrated Circuits (ICs)/Embedded/PLDs (Programmable Logic Device)	0	0
+777	System On Chip (SoC)		2012	Embedded	1		Integrated Circuits (ICs)/Embedded/System On Chip (SoC)	0	0
+2016	Interface		32	Integrated Circuits (ICs)	1		Integrated Circuits (ICs)/Interface	0	0
+747	Analog Switches, Multiplexers, Demultiplexers		2016	Interface	1		Integrated Circuits (ICs)/Interface/Analog Switches, Multiplexers, Demultiplexers	0	0
+780	Analog Switches - Special Purpose		2016	Interface	1		Integrated Circuits (ICs)/Interface/Analog Switches - Special Purpose	0	0
+716	CODECS		2016	Interface	1		Integrated Circuits (ICs)/Interface/CODECS	0	0
+753	Controllers		2016	Interface	1		Integrated Circuits (ICs)/Interface/Controllers	0	0
+723	Direct Digital Synthesis (DDS)		2016	Interface	1		Integrated Circuits (ICs)/Interface/Direct Digital Synthesis (DDS)	0	0
+710	Drivers, Receivers, Transceivers		2016	Interface	1		Integrated Circuits (ICs)/Interface/Drivers, Receivers, Transceivers	0	0
+709	Encoders, Decoders, Converters		2016	Interface	1		Integrated Circuits (ICs)/Interface/Encoders, Decoders, Converters	0	0
+735	Filters - Active		2016	Interface	1		Integrated Circuits (ICs)/Interface/Filters - Active	0	0
+749	I/O Expanders		2016	Interface	1		Integrated Circuits (ICs)/Interface/I/O Expanders	0	0
+722	Modems - ICs and Modules		2016	Interface	1		Integrated Circuits (ICs)/Interface/Modems - ICs and Modules	0	0
+778	Modules		2016	Interface	1		Integrated Circuits (ICs)/Interface/Modules	0	0
+752	Sensor and Detector Interfaces		2016	Interface	1		Integrated Circuits (ICs)/Interface/Sensor and Detector Interfaces	0	0
+560	Sensor, Capacitive Touch		2016	Interface	1		Integrated Circuits (ICs)/Interface/Sensor, Capacitive Touch	0	0
+755	Serializers, Deserializers		2016	Interface	1		Integrated Circuits (ICs)/Interface/Serializers, Deserializers	0	0
+756	Signal Buffers, Repeaters, Splitters		2016	Interface	1		Integrated Circuits (ICs)/Interface/Signal Buffers, Repeaters, Splitters	0	0
+683	Signal Terminators		2016	Interface	1		Integrated Circuits (ICs)/Interface/Signal Terminators	0	0
+754	Specialized		2016	Interface	1		Integrated Circuits (ICs)/Interface/Specialized	0	0
+702	Telecom		2016	Interface	1		Integrated Circuits (ICs)/Interface/Telecom	0	0
+714	UARTs (Universal Asynchronous Receiver Transmitter)		2016	Interface	1		Integrated Circuits (ICs)/Interface/UARTs (Universal Asynchronous Receiver Transmitter)	0	0
+733	Voice Record and Playback		2016	Interface	1		Integrated Circuits (ICs)/Interface/Voice Record and Playback	0	0
+2018	Linear		32	Integrated Circuits (ICs)	1		Integrated Circuits (ICs)/Linear	0	0
+2034	Amplifiers		2018	Linear	1		Integrated Circuits (ICs)/Linear/Amplifiers	0	0
+742	Audio Amplifiers		2034	Amplifiers	1		Integrated Circuits (ICs)/Linear/Amplifiers/Audio Amplifiers	0	0
+687	Instrumentation, OP Amps, Buffer Amps		2034	Amplifiers	1		Integrated Circuits (ICs)/Linear/Amplifiers/Instrumentation, OP Amps, Buffer Amps	0	0
+771	Special Purpose Amplifiers		2034	Amplifiers	1		Integrated Circuits (ICs)/Linear/Amplifiers/Special Purpose Amplifiers	0	0
+737	Video Amps and Modules		2034	Amplifiers	1		Integrated Circuits (ICs)/Linear/Amplifiers/Video Amps and Modules	0	0
+772	Analog Multipliers, Dividers		2018	Linear	1		Integrated Circuits (ICs)/Linear/Analog Multipliers, Dividers	0	0
+692	Comparators		2018	Linear	1		Integrated Circuits (ICs)/Linear/Comparators	0	0
+684	Video Processing		2018	Linear	1		Integrated Circuits (ICs)/Linear/Video Processing	0	0
+2019	Logic		32	Integrated Circuits (ICs)	1		Integrated Circuits (ICs)/Logic	0	0
+704	Buffers, Drivers, Receivers, Transceivers		2019	Logic	1		Integrated Circuits (ICs)/Logic/Buffers, Drivers, Receivers, Transceivers	0	0
+773	Comparators		2019	Logic	1		Integrated Circuits (ICs)/Logic/Comparators	0	0
+731	Counters, Dividers		2019	Logic	1		Integrated Circuits (ICs)/Logic/Counters, Dividers	0	0
+707	FIFOs Memory		2019	Logic	1		Integrated Circuits (ICs)/Logic/FIFOs Memory	0	0
+706	Flip Flops		2019	Logic	1		Integrated Circuits (ICs)/Logic/Flip Flops	0	0
+705	Gates and Inverters		2019	Logic	1		Integrated Circuits (ICs)/Logic/Gates and Inverters	0	0
+770	Gates and Inverters - Multi-Function, Configurable		2019	Logic	1		Integrated Circuits (ICs)/Logic/Gates and Inverters - Multi-Function, Configurable	0	0
+708	Latches		2019	Logic	1		Integrated Circuits (ICs)/Logic/Latches	0	0
+711	Multivibrators		2019	Logic	1		Integrated Circuits (ICs)/Logic/Multivibrators	0	0
+720	Parity Generators and Checkers		2019	Logic	1		Integrated Circuits (ICs)/Logic/Parity Generators and Checkers	0	0
+712	Shift Registers		2019	Logic	1		Integrated Circuits (ICs)/Logic/Shift Registers	0	0
+743	Signal Switches, Multiplexers, Decoders		2019	Logic	1		Integrated Circuits (ICs)/Logic/Signal Switches, Multiplexers, Decoders	0	0
+703	Specialty Logic		2019	Logic	1		Integrated Circuits (ICs)/Logic/Specialty Logic	0	0
+732	Translators, Level Shifters		2019	Logic	1		Integrated Circuits (ICs)/Logic/Translators, Level Shifters	0	0
+725	Universal Bus Functions		2019	Logic	1		Integrated Circuits (ICs)/Logic/Universal Bus Functions	0	0
+2020	Memory		32	Integrated Circuits (ICs)	1		Integrated Circuits (ICs)/Memory	0	0
+766	Batteries		2020	Memory	1		Integrated Circuits (ICs)/Memory/Batteries	0	0
+697	Configuration PROMs for FPGAs		2020	Memory	1		Integrated Circuits (ICs)/Memory/Configuration PROMs for FPGAs	0	0
+736	Controllers		2020	Memory	1		Integrated Circuits (ICs)/Memory/Controllers	0	0
+774	Memory		2020	Memory	1		Integrated Circuits (ICs)/Memory/Memory	0	0
+2025	Power Management (PMIC)		32	Integrated Circuits (ICs)	1		Integrated Circuits (ICs)/Power Management (PMIC)	0	0
+748	AC DC Converters, Offline Switches		2025	Power Management (PMIC)	1		Integrated Circuits (ICs)/Power Management (PMIC)/AC DC Converters, Offline Switches	0	0
+781	Battery Chargers		2025	Power Management (PMIC)	1		Integrated Circuits (ICs)/Power Management (PMIC)/Battery Chargers	0	0
+713	Battery Management		2025	Power Management (PMIC)	1		Integrated Circuits (ICs)/Power Management (PMIC)/Battery Management	0	0
+734	Current Regulation/Management		2025	Power Management (PMIC)	1		Integrated Circuits (ICs)/Power Management (PMIC)/Current Regulation/Management	0	0
+715	DC DC Switching Controllers		2025	Power Management (PMIC)	1		Integrated Circuits (ICs)/Power Management (PMIC)/DC DC Switching Controllers	0	0
+729	Display Drivers		2025	Power Management (PMIC)	1		Integrated Circuits (ICs)/Power Management (PMIC)/Display Drivers	0	0
+765	Energy Metering		2025	Power Management (PMIC)	1		Integrated Circuits (ICs)/Power Management (PMIC)/Energy Metering	0	0
+746	Full Half-Bridge (H Bridge) Drivers		2025	Power Management (PMIC)	1		Integrated Circuits (ICs)/Power Management (PMIC)/Full Half-Bridge (H Bridge) Drivers	0	0
+730	Gate Drivers		2025	Power Management (PMIC)	1		Integrated Circuits (ICs)/Power Management (PMIC)/Gate Drivers	0	0
+718	Hot Swap Controllers		2025	Power Management (PMIC)	1		Integrated Circuits (ICs)/Power Management (PMIC)/Hot Swap Controllers	0	0
+681	Laser Drivers		2025	Power Management (PMIC)	1		Integrated Circuits (ICs)/Power Management (PMIC)/Laser Drivers	0	0
+745	LED Drivers		2025	Power Management (PMIC)	1		Integrated Circuits (ICs)/Power Management (PMIC)/LED Drivers	0	0
+751	Lighting, Ballast Controllers		2025	Power Management (PMIC)	1		Integrated Circuits (ICs)/Power Management (PMIC)/Lighting, Ballast Controllers	0	0
+744	Motor Drivers, Controllers		2025	Power Management (PMIC)	1		Integrated Circuits (ICs)/Power Management (PMIC)/Motor Drivers, Controllers	0	0
+758	OR Controllers, Ideal Diodes		2025	Power Management (PMIC)	1		Integrated Circuits (ICs)/Power Management (PMIC)/OR Controllers, Ideal Diodes	0	0
+759	PFC (Power Factor Correction)		2025	Power Management (PMIC)	1		Integrated Circuits (ICs)/Power Management (PMIC)/PFC (Power Factor Correction)	0	0
+726	Power Distribution Switches, Load Drivers		2025	Power Management (PMIC)	1		Integrated Circuits (ICs)/Power Management (PMIC)/Power Distribution Switches, Load Drivers	0	0
+761	Power Management - Specialized		2025	Power Management (PMIC)	1		Integrated Circuits (ICs)/Power Management (PMIC)/Power Management - Specialized	0	0
+779	Power Over Ethernet (PoE) Controllers		2025	Power Management (PMIC)	1		Integrated Circuits (ICs)/Power Management (PMIC)/Power Over Ethernet (PoE) Controllers	0	0
+760	Power Supply Controllers, Monitors		2025	Power Management (PMIC)	1		Integrated Circuits (ICs)/Power Management (PMIC)/Power Supply Controllers, Monitors	0	0
+740	RMS to DC Converters		2025	Power Management (PMIC)	1		Integrated Circuits (ICs)/Power Management (PMIC)/RMS to DC Converters	0	0
+750	Special Purpose Regulators		2025	Power Management (PMIC)	1		Integrated Circuits (ICs)/Power Management (PMIC)/Special Purpose Regulators	0	0
+691	Supervisors		2025	Power Management (PMIC)	1		Integrated Circuits (ICs)/Power Management (PMIC)/Supervisors	0	0
+738	Thermal Management		2025	Power Management (PMIC)	1		Integrated Circuits (ICs)/Power Management (PMIC)/Thermal Management	0	0
+727	V/F and F/V Converters		2025	Power Management (PMIC)	1		Integrated Circuits (ICs)/Power Management (PMIC)/V/F and F/V Converters	0	0
+693	Voltage Reference		2025	Power Management (PMIC)	1		Integrated Circuits (ICs)/Power Management (PMIC)/Voltage Reference	0	0
+739	Voltage Regulators - DC DC Switching Regulators		2025	Power Management (PMIC)	1		Integrated Circuits (ICs)/Power Management (PMIC)/Voltage Regulators - DC DC Switching Regulators	0	0
+699	Voltage Regulators - Linear, Low Drop Out (LDO) Regulators		2025	Power Management (PMIC)	1		Integrated Circuits (ICs)/Power Management (PMIC)/Voltage Regulators - Linear, Low Drop Out (LDO) Regulators	0	0
+757	Voltage Regulators - Linear Regulator Controllers		2025	Power Management (PMIC)	1		Integrated Circuits (ICs)/Power Management (PMIC)/Voltage Regulators - Linear Regulator Controllers	0	0
+776	Voltage Regulators - Linear + Switching		2025	Power Management (PMIC)	1		Integrated Circuits (ICs)/Power Management (PMIC)/Voltage Regulators - Linear + Switching	0	0
+686	Specialized ICs		32	Integrated Circuits (ICs)	1		Integrated Circuits (ICs)/Specialized ICs	0	0
+39	Isolators				1		Isolators	0	0
+901	Digital Isolators		39	Isolators	1		Isolators/Digital Isolators	0	0
+906	Isolators - Gate Drivers		39	Isolators	1		Isolators/Isolators - Gate Drivers	0	0
+2058	Optoisolators		39	Isolators	1		Isolators/Optoisolators	0	0
+902	Logic Output Optoisolators		2058	Optoisolators	1		Isolators/Optoisolators/Logic Output Optoisolators	0	0
+903	Transistor, Photovoltaic Output Optoisolators		2058	Optoisolators	1		Isolators/Optoisolators/Transistor, Photovoltaic Output Optoisolators	0	0
+904	Triac, SCR Output Optoisolators		2058	Optoisolators	1		Isolators/Optoisolators/Triac, SCR Output Optoisolators	0	0
+905	Special Purpose Isolators		39	Isolators	1		Isolators/Special Purpose Isolators	0	0
+31	Kits				1		Kits	0	0
+669	Audio Kits		31	Kits	1		Kits/Audio Kits	0	0
+663	Cable Assemblies		31	Kits	1		Kits/Cable Assemblies	0	0
+665	Cables, Wires - Single Conductors		31	Kits	1		Kits/Cables, Wires - Single Conductors	0	0
+651	Capacitor Kits		31	Kits	1		Kits/Capacitor Kits	0	0
+666	Circuit Protection - Assortment Kits		31	Kits	1		Kits/Circuit Protection - Assortment Kits	0	0
+667	Circuit Protection Kits - Fuse		31	Kits	1		Kits/Circuit Protection Kits - Fuse	0	0
+668	Circuit Protection Kits - TVS Diodes		31	Kits	1		Kits/Circuit Protection Kits - TVS Diodes	0	0
+660	Connector Adapter Kits		31	Kits	1		Kits/Connector Adapter Kits	0	0
+656	Connector Kits		31	Kits	1		Kits/Connector Kits	0	0
+671	Crystal Kits		31	Kits	1		Kits/Crystal Kits	0	0
+659	Discrete Assortment Kits		31	Kits	1		Kits/Discrete Assortment Kits	0	0
+646	EMI, Filter Kits		31	Kits	1		Kits/EMI, Filter Kits	0	0
+674	Fiber Optic Kits		31	Kits	1		Kits/Fiber Optic Kits	0	0
+645	Hardware Kits		31	Kits	1		Kits/Hardware Kits	0	0
+675	Heat Shrink Tubing Kits		31	Kits	1		Kits/Heat Shrink Tubing Kits	0	0
+655	Inductor Kits		31	Kits	1		Kits/Inductor Kits	0	0
+658	Integrated Circuits (ICs) Kits		31	Kits	1		Kits/Integrated Circuits (ICs) Kits	0	0
+649	Kit Accessories		31	Kits	1		Kits/Kit Accessories	0	0
+647	LED Kits		31	Kits	1		Kits/LED Kits	0	0
+657	Miscellaneous		31	Kits	1		Kits/Miscellaneous	0	0
+676	Optics - Light Pipe Kits		31	Kits	1		Kits/Optics - Light Pipe Kits	0	0
+652	Potentiometer Kits		31	Kits	1		Kits/Potentiometer Kits	0	0
+672	Prototyping Boards, Fabrication Kits		31	Kits	1		Kits/Prototyping Boards, Fabrication Kits	0	0
+653	Resistor Kits		31	Kits	1		Kits/Resistor Kits	0	0
+677	RF Shield Kits		31	Kits	1		Kits/RF Shield Kits	0	0
+662	Sensor Kits		31	Kits	1		Kits/Sensor Kits	0	0
+650	Static Control Kit		31	Kits	1		Kits/Static Control Kit	0	0
+678	Switch Kits		31	Kits	1		Kits/Switch Kits	0	0
+673	Tape Kits		31	Kits	1		Kits/Tape Kits	0	0
+664	Thermistor Kits		31	Kits	1		Kits/Thermistor Kits	0	0
+654	Transformer Kits		31	Kits	1		Kits/Transformer Kits	0	0
+661	Wire and Cable Tie Kits		31	Kits	1		Kits/Wire and Cable Tie Kits	0	0
+980	Labels, Signs, Barriers, Identification				1		Labels, Signs, Barriers, Identification	0	0
+983	Barriers, Barricades, Floor Markings, Tapes		980	Labels, Signs, Barriers, Identification	1		Labels, Signs, Barriers, Identification/Barriers, Barricades, Floor Markings, Tapes	0	0
+987	Label, Sign, Barrier Accessories		980	Labels, Signs, Barriers, Identification	1		Labels, Signs, Barriers, Identification/Label, Sign, Barrier Accessories	0	0
+981	Labels, Stickers, Decals - Blank		980	Labels, Signs, Barriers, Identification	1		Labels, Signs, Barriers, Identification/Labels, Stickers, Decals - Blank	0	0
+982	Labels, Stickers, Decals - Preprinted		980	Labels, Signs, Barriers, Identification	1		Labels, Signs, Barriers, Identification/Labels, Stickers, Decals - Preprinted	0	0
+577	Lockouts, Padlocks		980	Labels, Signs, Barriers, Identification	1		Labels, Signs, Barriers, Identification/Lockouts, Padlocks	0	0
+985	Signs, Nameplates, Posters		980	Labels, Signs, Barriers, Identification	1		Labels, Signs, Barriers, Identification/Signs, Nameplates, Posters	0	0
+984	Tags		980	Labels, Signs, Barriers, Identification	1		Labels, Signs, Barriers, Identification/Tags	0	0
+35	Line Protection, Distribution, Backups				1		Line Protection, Distribution, Backups	0	0
+833	DC to AC (Power) Inverters		35	Line Protection, Distribution, Backups	1		Line Protection, Distribution, Backups/DC to AC (Power) Inverters	0	0
+830	Line Conditioners		35	Line Protection, Distribution, Backups	1		Line Protection, Distribution, Backups/Line Conditioners	0	0
+831	Line Protection, Distribution Accessories		35	Line Protection, Distribution, Backups	1		Line Protection, Distribution, Backups/Line Protection, Distribution Accessories	0	0
+832	Power Distribution, Surge Protectors		35	Line Protection, Distribution, Backups	1		Line Protection, Distribution, Backups/Power Distribution, Surge Protectors	0	0
+829	Uninterruptible Power Supply (UPS) Systems		35	Line Protection, Distribution, Backups	1		Line Protection, Distribution, Backups/Uninterruptible Power Supply (UPS) Systems	0	0
+46	Magnetics - Transformer, Inductor Components				1		Magnetics - Transformer, Inductor Components	0	0
+935	Bobbins (Coil Formers), Mounts, Hardware		46	Magnetics - Transformer, Inductor Components	1		Magnetics - Transformer, Inductor Components/Bobbins (Coil Formers), Mounts, Hardware	0	0
+936	Ferrite Cores		46	Magnetics - Transformer, Inductor Components	1		Magnetics - Transformer, Inductor Components/Ferrite Cores	0	0
+934	Magnetic Wire		46	Magnetics - Transformer, Inductor Components	1		Magnetics - Transformer, Inductor Components/Magnetic Wire	0	0
+47	Maker/DIY, Educational				1		Maker/DIY, Educational	0	0
+937	Books, Media		47	Maker/DIY, Educational	1		Maker/DIY, Educational/Books, Media	0	0
+939	Educational Kits		47	Maker/DIY, Educational	1		Maker/DIY, Educational/Educational Kits	0	0
+941	Gadgets, Gizmos		47	Maker/DIY, Educational	1		Maker/DIY, Educational/Gadgets, Gizmos	0	0
+938	Prototyping, Fabrication		47	Maker/DIY, Educational	1		Maker/DIY, Educational/Prototyping, Fabrication	0	0
+942	Robotics Kits		47	Maker/DIY, Educational	1		Maker/DIY, Educational/Robotics Kits	0	0
+940	Wearables		47	Maker/DIY, Educational	1		Maker/DIY, Educational/Wearables	0	0
+24	Memory Cards, Modules				1		Memory Cards, Modules	0	0
+500	Memory Card, Module Accessories		24	Memory Cards, Modules	1		Memory Cards, Modules/Memory Card, Module Accessories	0	0
+501	Memory Cards		24	Memory Cards, Modules	1		Memory Cards, Modules/Memory Cards	0	0
+505	Memory - Modules		24	Memory Cards, Modules	1		Memory Cards, Modules/Memory - Modules	0	0
+503	Solid State Drives (SSDs), Hard Disk Drives (HDDs)		24	Memory Cards, Modules	1		Memory Cards, Modules/Solid State Drives (SSDs), Hard Disk Drives (HDDs)	0	0
+502	Specialized		24	Memory Cards, Modules	1		Memory Cards, Modules/Specialized	0	0
+504	USB Flash Drives		24	Memory Cards, Modules	1		Memory Cards, Modules/USB Flash Drives	0	0
+13	Motors, Actuators, Solenoids and Drivers				1		Motors, Actuators, Solenoids and Drivers	0	0
+177	Accessories		13	Motors, Actuators, Solenoids and Drivers	1		Motors, Actuators, Solenoids and Drivers/Accessories	0	0
+1157	Electric Actuators/Cylinders		13	Motors, Actuators, Solenoids and Drivers	1		Motors, Actuators, Solenoids and Drivers/Electric Actuators/Cylinders	0	0
+181	Motor Driver Boards, Modules		13	Motors, Actuators, Solenoids and Drivers	1		Motors, Actuators, Solenoids and Drivers/Motor Driver Boards, Modules	0	0
+178	Motors - AC, DC		13	Motors, Actuators, Solenoids and Drivers	1		Motors, Actuators, Solenoids and Drivers/Motors - AC, DC	0	0
+180	Solenoids		13	Motors, Actuators, Solenoids and Drivers	1		Motors, Actuators, Solenoids and Drivers/Solenoids	0	0
+179	Stepper Motors		13	Motors, Actuators, Solenoids and Drivers	1		Motors, Actuators, Solenoids and Drivers/Stepper Motors	0	0
+44	Networking Solutions				1		Networking Solutions	0	0
+925	Accessories		44	Networking Solutions	1		Networking Solutions/Accessories	0	0
+928	Gateways, Routers		44	Networking Solutions	1		Networking Solutions/Gateways, Routers	0	0
+929	Media Converters		44	Networking Solutions	1		Networking Solutions/Media Converters	0	0
+926	Miscellaneous		44	Networking Solutions	1		Networking Solutions/Miscellaneous	0	0
+930	Serial Device Servers		44	Networking Solutions	1		Networking Solutions/Serial Device Servers	0	0
+927	Switches, Hubs		44	Networking Solutions	1		Networking Solutions/Switches, Hubs	0	0
+42	Optical Inspection Equipment				1		Optical Inspection Equipment	0	0
+915	Arms, Mounts, Stands		42	Optical Inspection Equipment	1		Optical Inspection Equipment/Arms, Mounts, Stands	0	0
+913	Cameras		42	Optical Inspection Equipment	1		Optical Inspection Equipment/Cameras	0	0
+916	Eyepieces, Lenses		42	Optical Inspection Equipment	1		Optical Inspection Equipment/Eyepieces, Lenses	0	0
+920	Illumination Sources		42	Optical Inspection Equipment	1		Optical Inspection Equipment/Illumination Sources	0	0
+917	Lamps - Magnifying, Task		42	Optical Inspection Equipment	1		Optical Inspection Equipment/Lamps - Magnifying, Task	0	0
+918	Loupes, Magnifiers		42	Optical Inspection Equipment	1		Optical Inspection Equipment/Loupes, Magnifiers	0	0
+1121	Machine Vision - Accessories		42	Optical Inspection Equipment	1		Optical Inspection Equipment/Machine Vision - Accessories	0	0
+1077	Machine Vision - Lenses		42	Optical Inspection Equipment	1		Optical Inspection Equipment/Machine Vision - Lenses	0	0
+914	Microscopes		42	Optical Inspection Equipment	1		Optical Inspection Equipment/Microscopes	0	0
+912	Optical Inspection Accessories		42	Optical Inspection Equipment	1		Optical Inspection Equipment/Optical Inspection Accessories	0	0
+919	Video Inspection Systems		42	Optical Inspection Equipment	1		Optical Inspection Equipment/Video Inspection Systems	0	0
+41	Optics				1		Optics	0	0
+1156	Beamsplitters		41	Optics	1		Optics/Beamsplitters	0	0
+1044	Filters		41	Optics	1		Optics/Filters	0	0
+2060	Laser Optics		41	Optics	1		Optics/Laser Optics	0	0
+1042	Beam Expanders		2060	Laser Optics	1		Optics/Laser Optics/Beam Expanders	0	0
+1048	Faraday Isolators		2060	Laser Optics	1		Optics/Laser Optics/Faraday Isolators	0	0
+1043	Focus Lenses		2060	Laser Optics	1		Optics/Laser Optics/Focus Lenses	0	0
+1041	F-Theta Lenses		2060	Laser Optics	1		Optics/Laser Optics/F-Theta Lenses	0	0
+1050	Laser Modulators		2060	Laser Optics	1		Optics/Laser Optics/Laser Modulators	0	0
+1120	Laser Optics Accessories		2060	Laser Optics	1		Optics/Laser Optics/Laser Optics Accessories	0	0
+1049	Pockels Cells		2060	Laser Optics	1		Optics/Laser Optics/Pockels Cells	0	0
+1045	Lenses		41	Optics	1		Optics/Lenses	0	0
+1158	Mirrors		41	Optics	1		Optics/Mirrors	0	0
+1046	Polarizers		41	Optics	1		Optics/Polarizers	0	0
+1122	Prisms		41	Optics	1		Optics/Prisms	0	0
+7	Optoelectronics				1		Optoelectronics	0	0
+97	Ballasts, Inverters		7	Optoelectronics	1		Optoelectronics/Ballasts, Inverters	0	0
+106	Circuit Board Indicators, Arrays, Light Bars, Bar Graphs		7	Optoelectronics	1		Optoelectronics/Circuit Board Indicators, Arrays, Light Bars, Bar Graphs	0	0
+104	Cold Cathode Fluorescent (CCFL) & UV Lamps		7	Optoelectronics	1		Optoelectronics/Cold Cathode Fluorescent (CCFL) & UV Lamps	0	0
+1168	Display Backlights		7	Optoelectronics	1		Optoelectronics/Display Backlights	0	0
+93	Display Bezels, Lenses		7	Optoelectronics	1		Optoelectronics/Display Bezels, Lenses	0	0
+114	Display, Monitor - LCD Driver/Controller		7	Optoelectronics	1		Optoelectronics/Display, Monitor - LCD Driver/Controller	0	0
+127	Electroluminescent		7	Optoelectronics	1		Optoelectronics/Electroluminescent	0	0
+119	Fiber Optic Attenuators		7	Optoelectronics	1		Optoelectronics/Fiber Optic Attenuators	0	0
+117	Fiber Optic Receivers		7	Optoelectronics	1		Optoelectronics/Fiber Optic Receivers	0	0
+120	Fiber Optic Switches, Multiplexers, Demultiplexers		7	Optoelectronics	1		Optoelectronics/Fiber Optic Switches, Multiplexers, Demultiplexers	0	0
+118	Fiber Optic Transceiver Modules		7	Optoelectronics	1		Optoelectronics/Fiber Optic Transceiver Modules	0	0
+116	Fiber Optic Transmitters - Discrete		7	Optoelectronics	1		Optoelectronics/Fiber Optic Transmitters - Discrete	0	0
+115	Fiber Optic Transmitters - Drive Circuitry Integrated		7	Optoelectronics	1		Optoelectronics/Fiber Optic Transmitters - Drive Circuitry Integrated	0	0
+1119	HeNe Laser Heads		7	Optoelectronics	1		Optoelectronics/HeNe Laser Heads	0	0
+1009	HeNe Laser System Accessories		7	Optoelectronics	1		Optoelectronics/HeNe Laser System Accessories	0	0
+1008	HeNe Laser Systems		7	Optoelectronics	1		Optoelectronics/HeNe Laser Systems	0	0
+101	Incandescent, Neon Lamps		7	Optoelectronics	1		Optoelectronics/Incandescent, Neon Lamps	0	0
+109	Lamp Replacements		7	Optoelectronics	1		Optoelectronics/Lamp Replacements	0	0
+966	Laser Diode, Module Accessories		7	Optoelectronics	1		Optoelectronics/Laser Diode, Module Accessories	0	0
+1055	Laser Diodes, Laser Modules - Laser Delivery, Laser Fibers		7	Optoelectronics	1		Optoelectronics/Laser Diodes, Laser Modules - Laser Delivery, Laser Fibers	0	0
+95	Laser Diodes, Modules		7	Optoelectronics	1		Optoelectronics/Laser Diodes, Modules	0	0
+99	LCD, OLED Character and Numeric		7	Optoelectronics	1		Optoelectronics/LCD, OLED Character and Numeric	0	0
+107	LCD, OLED, Graphic		7	Optoelectronics	1		Optoelectronics/LCD, OLED, Graphic	0	0
+126	LED Addressable, Specialty		7	Optoelectronics	1		Optoelectronics/LED Addressable, Specialty	0	0
+92	LED Character and Numeric		7	Optoelectronics	1		Optoelectronics/LED Character and Numeric	0	0
+111	LED COBs, Engines, Modules, Strips		7	Optoelectronics	1		Optoelectronics/LED COBs, Engines, Modules, Strips	0	0
+125	LED Color Lighting		7	Optoelectronics	1		Optoelectronics/LED Color Lighting	0	0
+96	LED Dot Matrix and Cluster		7	Optoelectronics	1		Optoelectronics/LED Dot Matrix and Cluster	0	0
+94	LED Emitters - Infrared, UV, Visible		7	Optoelectronics	1		Optoelectronics/LED Emitters - Infrared, UV, Visible	0	0
+105	LED Indication - Discrete		7	Optoelectronics	1		Optoelectronics/LED Indication - Discrete	0	0
+129	LED Lighting Kits		7	Optoelectronics	1		Optoelectronics/LED Lighting Kits	0	0
+121	LED Thermal Products		7	Optoelectronics	1		Optoelectronics/LED Thermal Products	0	0
+124	LED White Lighting		7	Optoelectronics	1		Optoelectronics/LED White Lighting	0	0
+112	Lenses		7	Optoelectronics	1		Optoelectronics/Lenses	0	0
+1161	Lighting Fixtures		7	Optoelectronics	1		Optoelectronics/Lighting Fixtures	0	0
+102	Light Pipes		7	Optoelectronics	1		Optoelectronics/Light Pipes	0	0
+98	Optoelectronics Accessories		7	Optoelectronics	1		Optoelectronics/Optoelectronics Accessories	0	0
+1047	Optomechanical		7	Optoelectronics	1		Optoelectronics/Optomechanical	0	0
+108	Panel Indicators, Pilot Lights		7	Optoelectronics	1		Optoelectronics/Panel Indicators, Pilot Lights	0	0
+122	Reflectors		7	Optoelectronics	1		Optoelectronics/Reflectors	0	0
+123	Remote Phosphor Light Source		7	Optoelectronics	1		Optoelectronics/Remote Phosphor Light Source	0	0
+100	Spacers, Standoffs		7	Optoelectronics	1		Optoelectronics/Spacers, Standoffs	0	0
+110	Touch Screen Overlays		7	Optoelectronics	1		Optoelectronics/Touch Screen Overlays	0	0
+103	Vacuum Fluorescent (VFD)		7	Optoelectronics	1		Optoelectronics/Vacuum Fluorescent (VFD)	0	0
+5	Potentiometers, Variable Resistors				1		Potentiometers, Variable Resistors	0	0
+76	Accessories		5	Potentiometers, Variable Resistors	1		Potentiometers, Variable Resistors/Accessories	0	0
+83	Adjustable Power Resistor		5	Potentiometers, Variable Resistors	1		Potentiometers, Variable Resistors/Adjustable Power Resistor	0	0
+82	Joystick Potentiometers		5	Potentiometers, Variable Resistors	1		Potentiometers, Variable Resistors/Joystick Potentiometers	0	0
+84	Rotary Potentiometers, Rheostats		5	Potentiometers, Variable Resistors	1		Potentiometers, Variable Resistors/Rotary Potentiometers, Rheostats	0	0
+79	Scale Dials		5	Potentiometers, Variable Resistors	1		Potentiometers, Variable Resistors/Scale Dials	0	0
+78	Slide Potentiometers		5	Potentiometers, Variable Resistors	1		Potentiometers, Variable Resistors/Slide Potentiometers	0	0
+77	Thumbwheel Potentiometers		5	Potentiometers, Variable Resistors	1		Potentiometers, Variable Resistors/Thumbwheel Potentiometers	0	0
+80	Trimmer Potentiometers		5	Potentiometers, Variable Resistors	1		Potentiometers, Variable Resistors/Trimmer Potentiometers	0	0
+81	Value Display Potentiometers		5	Potentiometers, Variable Resistors	1		Potentiometers, Variable Resistors/Value Display Potentiometers	0	0
+43	Power Supplies - Board Mount				1		Power Supplies - Board Mount	0	0
+923	AC DC Converters		43	Power Supplies - Board Mount	1		Power Supplies - Board Mount/AC DC Converters	0	0
+921	Board Mount Power Supply Accessories		43	Power Supplies - Board Mount	1		Power Supplies - Board Mount/Board Mount Power Supply Accessories	0	0
+922	DC DC Converters		43	Power Supplies - Board Mount	1		Power Supplies - Board Mount/DC DC Converters	0	0
+924	LED Drivers		43	Power Supplies - Board Mount	1		Power Supplies - Board Mount/LED Drivers	0	0
+8	Power Supplies - External/Internal (Off-Board)				1		Power Supplies - External/Internal (Off-Board)	0	0
+135	AC AC Wall Power Adapters		8	Power Supplies - External/Internal (Off-Board)	1		Power Supplies - External/Internal (Off-Board)/AC AC Wall Power Adapters	0	0
+955	AC DC Configurable Power Supplies (Factory Assembled)		8	Power Supplies - External/Internal (Off-Board)	1		Power Supplies - External/Internal (Off-Board)/AC DC Configurable Power Supplies (Factory Assembled)	0	0
+134	AC DC Configurable Power Supply Chassis		8	Power Supplies - External/Internal (Off-Board)	1		Power Supplies - External/Internal (Off-Board)/AC DC Configurable Power Supply Chassis	0	0
+136	AC DC Configurable Power Supply Modules		8	Power Supplies - External/Internal (Off-Board)	1		Power Supplies - External/Internal (Off-Board)/AC DC Configurable Power Supply Modules	0	0
+133	AC DC Converters		8	Power Supplies - External/Internal (Off-Board)	1		Power Supplies - External/Internal (Off-Board)/AC DC Converters	0	0
+130	AC DC Desktop, Wall Power Adapters		8	Power Supplies - External/Internal (Off-Board)	1		Power Supplies - External/Internal (Off-Board)/AC DC Desktop, Wall Power Adapters	0	0
+132	DC DC Converters		8	Power Supplies - External/Internal (Off-Board)	1		Power Supplies - External/Internal (Off-Board)/DC DC Converters	0	0
+131	External/Internal Power Supply Accessories		8	Power Supplies - External/Internal (Off-Board)	1		Power Supplies - External/Internal (Off-Board)/External/Internal Power Supply Accessories	0	0
+1064	Industrial, DIN Rail Power Supplies		8	Power Supplies - External/Internal (Off-Board)	1		Power Supplies - External/Internal (Off-Board)/Industrial, DIN Rail Power Supplies	0	0
+137	LED Drivers		8	Power Supplies - External/Internal (Off-Board)	1		Power Supplies - External/Internal (Off-Board)/LED Drivers	0	0
+138	Power over Ethernet (PoE)		8	Power Supplies - External/Internal (Off-Board)	1		Power Supplies - External/Internal (Off-Board)/Power over Ethernet (PoE)	0	0
+30	Prototyping, Fabrication Products				1		Prototyping, Fabrication Products	0	0
+943	3D Printers		30	Prototyping, Fabrication Products	1		Prototyping, Fabrication Products/3D Printers	0	0
+956	3D Printing Accessories		30	Prototyping, Fabrication Products	1		Prototyping, Fabrication Products/3D Printing Accessories	0	0
+944	3D Printing Materials		30	Prototyping, Fabrication Products	1		Prototyping, Fabrication Products/3D Printing Materials	0	0
+635	Accessories		30	Prototyping, Fabrication Products	1		Prototyping, Fabrication Products/Accessories	0	0
+643	Adapter, Breakout Boards		30	Prototyping, Fabrication Products	1		Prototyping, Fabrication Products/Adapter, Breakout Boards	0	0
+641	Card Extenders		30	Prototyping, Fabrication Products	1		Prototyping, Fabrication Products/Card Extenders	0	0
+642	Coating, Grease, Repair		30	Prototyping, Fabrication Products	1		Prototyping, Fabrication Products/Coating, Grease, Repair	0	0
+1162	Custom 3D Printing Service		30	Prototyping, Fabrication Products	1		Prototyping, Fabrication Products/Custom 3D Printing Service	0	0
+1159	Custom Configurable PCB's		30	Prototyping, Fabrication Products	1		Prototyping, Fabrication Products/Custom Configurable PCB's	0	0
+644	Drill Bits, End Mills		30	Prototyping, Fabrication Products	1		Prototyping, Fabrication Products/Drill Bits, End Mills	0	0
+639	Etching and Fabrication Equipment		30	Prototyping, Fabrication Products	1		Prototyping, Fabrication Products/Etching and Fabrication Equipment	0	0
+640	Jumper Wire		30	Prototyping, Fabrication Products	1		Prototyping, Fabrication Products/Jumper Wire	0	0
+972	PCB Routers, Milling Machines		30	Prototyping, Fabrication Products	1		Prototyping, Fabrication Products/PCB Routers, Milling Machines	0	0
+636	Prototype Boards Perforated		30	Prototyping, Fabrication Products	1		Prototyping, Fabrication Products/Prototype Boards Perforated	0	0
+637	Prototype Boards Unperforated		30	Prototyping, Fabrication Products	1		Prototyping, Fabrication Products/Prototype Boards Unperforated	0	0
+638	Solderless Breadboards		30	Prototyping, Fabrication Products	1		Prototyping, Fabrication Products/Solderless Breadboards	0	0
+14	Relays				1		Relays	0	0
+182	Accessories		14	Relays	1		Relays/Accessories	0	0
+962	Automotive Relays		14	Relays	1		Relays/Automotive Relays	0	0
+969	Contactors (Electromechanical)		14	Relays	1		Relays/Contactors (Electromechanical)	0	0
+970	Contactors (Solid State)		14	Relays	1		Relays/Contactors (Solid State)	0	0
+963	High Frequency (RF) Relays		14	Relays	1		Relays/High Frequency (RF) Relays	0	0
+190	I/O Relay Module Racks		14	Relays	1		Relays/I/O Relay Module Racks	0	0
+186	I/O Relay Modules		14	Relays	1		Relays/I/O Relay Modules	0	0
+188	Power Relays, Over 2 Amps		14	Relays	1		Relays/Power Relays, Over 2 Amps	0	0
+964	Reed Relays		14	Relays	1		Relays/Reed Relays	0	0
+184	Relay Sockets		14	Relays	1		Relays/Relay Sockets	0	0
+989	Safety Relays		14	Relays	1		Relays/Safety Relays	0	0
+189	Signal Relays, Up to 2 Amps		14	Relays	1		Relays/Signal Relays, Up to 2 Amps	0	0
+183	Solid State Relays		14	Relays	1		Relays/Solid State Relays	0	0
+2	Resistors				1		Resistors	0	0
+51	Accessories		2	Resistors	1		Resistors/Accessories	0	0
+54	Chassis Mount Resistors		2	Resistors	1		Resistors/Chassis Mount Resistors	0	0
+52	Chip Resistor - Surface Mount		2	Resistors	1		Resistors/Chip Resistor - Surface Mount	0	0
+56	Precision Trimmed Resistors		2	Resistors	1		Resistors/Precision Trimmed Resistors	0	0
+50	Resistor Networks, Arrays		2	Resistors	1		Resistors/Resistor Networks, Arrays	0	0
+55	Specialized Resistors		2	Resistors	1		Resistors/Specialized Resistors	0	0
+53	Through Hole Resistors		2	Resistors	1		Resistors/Through Hole Resistors	0	0
+37	RF and Wireless				1		RF and Wireless	0	0
+852	Attenuators		37	RF and Wireless	1		RF and Wireless/Attenuators	0	0
+849	Balun		37	RF and Wireless	1		RF and Wireless/Balun	0	0
+866	RF Accessories		37	RF and Wireless	1		RF and Wireless/RF Accessories	0	0
+860	RF Amplifiers		37	RF and Wireless	1		RF and Wireless/RF Amplifiers	0	0
+875	RF Antennas		37	RF and Wireless	1		RF and Wireless/RF Antennas	0	0
+1010	RF Circulators and Isolators		37	RF and Wireless	1		RF and Wireless/RF Circulators and Isolators	0	0
+878	RF Demodulators		37	RF and Wireless	1		RF and Wireless/RF Demodulators	0	0
+862	RF Detectors		37	RF and Wireless	1		RF and Wireless/RF Detectors	0	0
+850	RF Directional Coupler		37	RF and Wireless	1		RF and Wireless/RF Directional Coupler	0	0
+876	RF Front End (LNA + PA)		37	RF and Wireless	1		RF and Wireless/RF Front End (LNA + PA)	0	0
+945	RFI and EMI - Contacts, Fingerstock and Gaskets		37	RF and Wireless	1		RF and Wireless/RFI and EMI - Contacts, Fingerstock and Gaskets	0	0
+869	RFI and EMI - Shielding and Absorbing Materials		37	RF and Wireless	1		RF and Wireless/RFI and EMI - Shielding and Absorbing Materials	0	0
+857	RFID Accessories		37	RF and Wireless	1		RF and Wireless/RFID Accessories	0	0
+855	RFID Antennas		37	RF and Wireless	1		RF and Wireless/RFID Antennas	0	0
+854	RFID Reader Modules		37	RF and Wireless	1		RF and Wireless/RFID Reader Modules	0	0
+880	RFID, RF Access, Monitoring ICs		37	RF and Wireless	1		RF and Wireless/RFID, RF Access, Monitoring ICs	0	0
+853	RFID Transponders, Tags		37	RF and Wireless	1		RF and Wireless/RFID Transponders, Tags	0	0
+863	RF Misc ICs and Modules		37	RF and Wireless	1		RF and Wireless/RF Misc ICs and Modules	0	0
+861	RF Mixers		37	RF and Wireless	1		RF and Wireless/RF Mixers	0	0
+877	RF Modulators		37	RF and Wireless	1		RF and Wireless/RF Modulators	0	0
+868	RF Multiplexers		37	RF and Wireless	1		RF and Wireless/RF Multiplexers	0	0
+864	RF Power Controller ICs		37	RF and Wireless	1		RF and Wireless/RF Power Controller ICs	0	0
+851	RF Power Dividers/Splitters		37	RF and Wireless	1		RF and Wireless/RF Power Dividers/Splitters	0	0
+870	RF Receivers		37	RF and Wireless	1		RF and Wireless/RF Receivers	0	0
+873	RF Receiver, Transmitter, and Transceiver Finished Units		37	RF and Wireless	1		RF and Wireless/RF Receiver, Transmitter, and Transceiver Finished Units	0	0
+867	RF Shields		37	RF and Wireless	1		RF and Wireless/RF Shields	0	0
+865	RF Switches		37	RF and Wireless	1		RF and Wireless/RF Switches	0	0
+879	RF Transceiver ICs		37	RF and Wireless	1		RF and Wireless/RF Transceiver ICs	0	0
+872	RF Transceiver Modules and Modems		37	RF and Wireless	1		RF and Wireless/RF Transceiver Modules and Modems	0	0
+871	RF Transmitters		37	RF and Wireless	1		RF and Wireless/RF Transmitters	0	0
+1163	Subscriber Identification Module (SIM) Cards		37	RF and Wireless	1		RF and Wireless/Subscriber Identification Module (SIM) Cards	0	0
+25	Sensors, Transducers				1		Sensors, Transducers	0	0
+539	Color Sensors		25	Sensors, Transducers	1		Sensors, Transducers/Color Sensors	0	0
+1070	Color Sensors - Industrial		25	Sensors, Transducers	1		Sensors, Transducers/Color Sensors - Industrial	0	0
+525	Current Sensors		25	Sensors, Transducers	1		Sensors, Transducers/Current Sensors	0	0
+507	Encoders		25	Sensors, Transducers	1		Sensors, Transducers/Encoders	0	0
+1075	Encoders - Industrial		25	Sensors, Transducers	1		Sensors, Transducers/Encoders - Industrial	0	0
+521	Float, Level Sensors		25	Sensors, Transducers	1		Sensors, Transducers/Float, Level Sensors	0	0
+1068	Float, Level Sensors - Industrial		25	Sensors, Transducers	1		Sensors, Transducers/Float, Level Sensors - Industrial	0	0
+520	Flow Sensors		25	Sensors, Transducers	1		Sensors, Transducers/Flow Sensors	0	0
+1067	Flow Sensors - Industrial		25	Sensors, Transducers	1		Sensors, Transducers/Flow Sensors - Industrial	0	0
+531	Force Sensors, Load Cells		25	Sensors, Transducers	1		Sensors, Transducers/Force Sensors, Load Cells	0	0
+1066	Force Sensors, Load Cells - Industrial		25	Sensors, Transducers	1		Sensors, Transducers/Force Sensors, Load Cells - Industrial	0	0
+530	Gas Sensors		25	Sensors, Transducers	1		Sensors, Transducers/Gas Sensors	0	0
+529	Humidity, Moisture Sensors		25	Sensors, Transducers	1		Sensors, Transducers/Humidity, Moisture Sensors	0	0
+538	IrDA Transceiver Modules		25	Sensors, Transducers	1		Sensors, Transducers/IrDA Transceiver Modules	0	0
+522	LVDT Transducers (Linear Variable Differential Transformer)		25	Sensors, Transducers	1		Sensors, Transducers/LVDT Transducers (Linear Variable Differential Transformer)	0	0
+2068	Magnetic Sensors		25	Sensors, Transducers	1		Sensors, Transducers/Magnetic Sensors	0	0
+553	Compass, Magnetic Field (Modules)		2068	Magnetic Sensors	1		Sensors, Transducers/Magnetic Sensors/Compass, Magnetic Field (Modules)	0	0
+554	Linear, Compass (ICs)		2068	Magnetic Sensors	1		Sensors, Transducers/Magnetic Sensors/Linear, Compass (ICs)	0	0
+552	Position, Proximity, Speed (Modules)		2068	Magnetic Sensors	1		Sensors, Transducers/Magnetic Sensors/Position, Proximity, Speed (Modules)	0	0
+1065	Position, Proximity, Speed (Modules) - Industrial		2068	Magnetic Sensors	1		Sensors, Transducers/Magnetic Sensors/Position, Proximity, Speed (Modules) - Industrial	0	0
+565	Switches (Solid State)		2068	Magnetic Sensors	1		Sensors, Transducers/Magnetic Sensors/Switches (Solid State)	0	0
+2069	Magnets		25	Sensors, Transducers	1		Sensors, Transducers/Magnets	0	0
+511	Multi Purpose Magnets		2069	Magnets	1		Sensors, Transducers/Magnets/Multi Purpose Magnets	0	0
+566	Sensor Matched Magnets		2069	Magnets	1		Sensors, Transducers/Magnets/Sensor Matched Magnets	0	0
+2070	Motion Sensors		25	Sensors, Transducers	1		Sensors, Transducers/Motion Sensors	0	0
+515	Accelerometers		2070	Motion Sensors	1		Sensors, Transducers/Motion Sensors/Accelerometers	0	0
+555	Gyroscopes		2070	Motion Sensors	1		Sensors, Transducers/Motion Sensors/Gyroscopes	0	0
+567	IMUs (Inertial Measurement Units)		2070	Motion Sensors	1		Sensors, Transducers/Motion Sensors/IMUs (Inertial Measurement Units)	0	0
+533	Inclinometers		2070	Motion Sensors	1		Sensors, Transducers/Motion Sensors/Inclinometers	0	0
+534	Optical Motion Sensors		2070	Motion Sensors	1		Sensors, Transducers/Motion Sensors/Optical Motion Sensors	0	0
+523	Tilt Switches		2070	Motion Sensors	1		Sensors, Transducers/Motion Sensors/Tilt Switches	0	0
+519	Vibration Sensors		2070	Motion Sensors	1		Sensors, Transducers/Motion Sensors/Vibration Sensors	0	0
+551	Multifunction		25	Sensors, Transducers	1		Sensors, Transducers/Multifunction	0	0
+2071	Optical Sensors		25	Sensors, Transducers	1		Sensors, Transducers/Optical Sensors	0	0
+536	Ambient Light, IR, UV Sensors		2071	Optical Sensors	1		Sensors, Transducers/Optical Sensors/Ambient Light, IR, UV Sensors	0	0
+1003	Camera Modules		2071	Optical Sensors	1		Sensors, Transducers/Optical Sensors/Camera Modules	0	0
+542	Distance Measuring		2071	Optical Sensors	1		Sensors, Transducers/Optical Sensors/Distance Measuring	0	0
+532	Image Sensors, Camera		2071	Optical Sensors	1		Sensors, Transducers/Optical Sensors/Image Sensors, Camera	0	0
+540	Photo Detectors - CdS Cells		2071	Optical Sensors	1		Sensors, Transducers/Optical Sensors/Photo Detectors - CdS Cells	0	0
+545	Photo Detectors - Logic Output		2071	Optical Sensors	1		Sensors, Transducers/Optical Sensors/Photo Detectors - Logic Output	0	0
+541	Photo Detectors - Remote Receiver		2071	Optical Sensors	1		Sensors, Transducers/Optical Sensors/Photo Detectors - Remote Receiver	0	0
+543	Photodiodes		2071	Optical Sensors	1		Sensors, Transducers/Optical Sensors/Photodiodes	0	0
+562	Photoelectric, Industrial		2071	Optical Sensors	1		Sensors, Transducers/Optical Sensors/Photoelectric, Industrial	0	0
+547	Photointerrupters - Slot Type - Logic Output		2071	Optical Sensors	1		Sensors, Transducers/Optical Sensors/Photointerrupters - Slot Type - Logic Output	0	0
+548	Photointerrupters - Slot Type - Transistor Output		2071	Optical Sensors	1		Sensors, Transducers/Optical Sensors/Photointerrupters - Slot Type - Transistor Output	0	0
+1011	Photonics - Counters, Detectors, SPCM (Single Photon Counting Module)		2071	Optical Sensors	1		Sensors, Transducers/Optical Sensors/Photonics - Counters, Detectors, SPCM (Single Photon Counting Module)	0	0
+544	Phototransistors		2071	Optical Sensors	1		Sensors, Transducers/Optical Sensors/Phototransistors	0	0
+546	Reflective - Analog Output		2071	Optical Sensors	1		Sensors, Transducers/Optical Sensors/Reflective - Analog Output	0	0
+556	Reflective - Logic Output		2071	Optical Sensors	1		Sensors, Transducers/Optical Sensors/Reflective - Logic Output	0	0
+509	Particle, Dust Sensors		25	Sensors, Transducers	1		Sensors, Transducers/Particle, Dust Sensors	0	0
+2072	Position Sensors		25	Sensors, Transducers	1		Sensors, Transducers/Position Sensors	0	0
+549	Angle, Linear Position Measuring		2072	Position Sensors	1		Sensors, Transducers/Position Sensors/Angle, Linear Position Measuring	0	0
+512	Pressure Sensors, Transducers		25	Sensors, Transducers	1		Sensors, Transducers/Pressure Sensors, Transducers	0	0
+1069	Pressure Sensors, Transducers - Industrial		25	Sensors, Transducers	1		Sensors, Transducers/Pressure Sensors, Transducers - Industrial	0	0
+563	Proximity/Occupancy Sensors Finished Units		25	Sensors, Transducers	1		Sensors, Transducers/Proximity/Occupancy Sensors Finished Units	0	0
+524	Proximity Sensors		25	Sensors, Transducers	1		Sensors, Transducers/Proximity Sensors	0	0
+1074	Proximity Sensors - Industrial		25	Sensors, Transducers	1		Sensors, Transducers/Proximity Sensors - Industrial	0	0
+949	Sensor Cable Accessories		25	Sensors, Transducers	1		Sensors, Transducers/Sensor Cable Accessories	0	0
+950	Sensor Cable Assemblies		25	Sensors, Transducers	1		Sensors, Transducers/Sensor Cable Assemblies	0	0
+951	Sensor Interface Junction Blocks		25	Sensors, Transducers	1		Sensors, Transducers/Sensor Interface Junction Blocks	0	0
+510	Sensor, Transducer Accessories		25	Sensors, Transducers	1		Sensors, Transducers/Sensor, Transducer Accessories	0	0
+557	Sensor, Transducer Amplifiers		25	Sensors, Transducers	1		Sensors, Transducers/Sensor, Transducer Amplifiers	0	0
+528	Shock Sensors		25	Sensors, Transducers	1		Sensors, Transducers/Shock Sensors	0	0
+514	Solar Cells		25	Sensors, Transducers	1		Sensors, Transducers/Solar Cells	0	0
+561	Specialized Sensors		25	Sensors, Transducers	1		Sensors, Transducers/Specialized Sensors	0	0
+559	Strain Gauges		25	Sensors, Transducers	1		Sensors, Transducers/Strain Gauges	0	0
+2075	Temperature Sensors		25	Sensors, Transducers	1		Sensors, Transducers/Temperature Sensors	0	0
+518	Analog and Digital Output		2075	Temperature Sensors	1		Sensors, Transducers/Temperature Sensors/Analog and Digital Output	0	0
+1073	Analog and Digital Output - Industrial		2075	Temperature Sensors	1		Sensors, Transducers/Temperature Sensors/Analog and Digital Output - Industrial	0	0
+508	NTC Thermistors		2075	Temperature Sensors	1		Sensors, Transducers/Temperature Sensors/NTC Thermistors	0	0
+550	PTC Thermistors		2075	Temperature Sensors	1		Sensors, Transducers/Temperature Sensors/PTC Thermistors	0	0
+535	RTD (Resistance Temperature Detector)		2075	Temperature Sensors	1		Sensors, Transducers/Temperature Sensors/RTD (Resistance Temperature Detector)	0	0
+513	Thermocouples, Temperature Probes		2075	Temperature Sensors	1		Sensors, Transducers/Temperature Sensors/Thermocouples, Temperature Probes	0	0
+516	Thermostats - Mechanical		2075	Temperature Sensors	1		Sensors, Transducers/Temperature Sensors/Thermostats - Mechanical	0	0
+1072	Thermostats - Mechanical - Industrial		2075	Temperature Sensors	1		Sensors, Transducers/Temperature Sensors/Thermostats - Mechanical - Industrial	0	0
+564	Thermostats - Solid State		2075	Temperature Sensors	1		Sensors, Transducers/Temperature Sensors/Thermostats - Solid State	0	0
+971	Touch Sensors		25	Sensors, Transducers	1		Sensors, Transducers/Touch Sensors	0	0
+527	Ultrasonic Receivers, Transmitters		25	Sensors, Transducers	1		Sensors, Transducers/Ultrasonic Receivers, Transmitters	0	0
+1071	Ultrasonic Receivers, Transmitters - Industrial		25	Sensors, Transducers	1		Sensors, Transducers/Ultrasonic Receivers, Transmitters - Industrial	0	0
+18	Soldering, Desoldering, Rework Products				1		Soldering, Desoldering, Rework Products	0	0
+265	Desoldering Braid, Wick, Pumps		18	Soldering, Desoldering, Rework Products	1		Soldering, Desoldering, Rework Products/Desoldering Braid, Wick, Pumps	0	0
+266	Flux, Flux Remover		18	Soldering, Desoldering, Rework Products	1		Soldering, Desoldering, Rework Products/Flux, Flux Remover	0	0
+269	Fume, Smoke Extraction		18	Soldering, Desoldering, Rework Products	1		Soldering, Desoldering, Rework Products/Fume, Smoke Extraction	0	0
+267	Holders, Stands		18	Soldering, Desoldering, Rework Products	1		Soldering, Desoldering, Rework Products/Holders, Stands	0	0
+262	Solder		18	Soldering, Desoldering, Rework Products	1		Soldering, Desoldering, Rework Products/Solder	0	0
+261	Soldering, Desoldering, Rework Accessories		18	Soldering, Desoldering, Rework Products	1		Soldering, Desoldering, Rework Products/Soldering, Desoldering, Rework Accessories	0	0
+264	Soldering, Desoldering, Rework Stations		18	Soldering, Desoldering, Rework Products	1		Soldering, Desoldering, Rework Products/Soldering, Desoldering, Rework Stations	0	0
+270	Soldering, Desoldering, Rework Tips, Nozzles		18	Soldering, Desoldering, Rework Products	1		Soldering, Desoldering, Rework Products/Soldering, Desoldering, Rework Tips, Nozzles	0	0
+268	Soldering Irons, Tweezers, Handles		18	Soldering, Desoldering, Rework Products	1		Soldering, Desoldering, Rework Products/Soldering Irons, Tweezers, Handles	0	0
+263	Solder Sponges, Tip Cleaners		18	Soldering, Desoldering, Rework Products	1		Soldering, Desoldering, Rework Products/Solder Sponges, Tip Cleaners	0	0
+272	Solder Stencils, Templates		18	Soldering, Desoldering, Rework Products	1		Soldering, Desoldering, Rework Products/Solder Stencils, Templates	0	0
+15	Switches				1		Switches	0	0
+192	Accessories		15	Switches	1		Switches/Accessories	0	0
+215	Accessories - Boots, Seals		15	Switches	1		Switches/Accessories - Boots, Seals	0	0
+210	Accessories - Caps		15	Switches	1		Switches/Accessories - Caps	0	0
+968	Cable Pull Switches		15	Switches	1		Switches/Cable Pull Switches	0	0
+2076	Configurable Switch Components		15	Switches	1		Switches/Configurable Switch Components	0	0
+206	Configurable Switch Bodies		2076	Configurable Switch Components	1		Switches/Configurable Switch Components/Configurable Switch Bodies	0	0
+207	Configurable Switch Contact Blocks		2076	Configurable Switch Components	1		Switches/Configurable Switch Components/Configurable Switch Contact Blocks	0	0
+208	Configurable Switch Illumination Sources		2076	Configurable Switch Components	1		Switches/Configurable Switch Components/Configurable Switch Illumination Sources	0	0
+209	Configurable Switch Lens		2076	Configurable Switch Components	1		Switches/Configurable Switch Components/Configurable Switch Lens	0	0
+194	DIP Switches		15	Switches	1		Switches/DIP Switches	0	0
+153	Disconnect Switch Components		15	Switches	1		Switches/Disconnect Switch Components	0	0
+1056	Emergency Stop (E-Stop) Switches		15	Switches	1		Switches/Emergency Stop (E-Stop) Switches	0	0
+1060	Interlock Switches		15	Switches	1		Switches/Interlock Switches	0	0
+196	Keylock Switches		15	Switches	1		Switches/Keylock Switches	0	0
+202	Keypad Switches		15	Switches	1		Switches/Keypad Switches	0	0
+198	Limit Switches		15	Switches	1		Switches/Limit Switches	0	0
+193	Magnetic, Reed Switches		15	Switches	1		Switches/Magnetic, Reed Switches	0	0
+204	Navigation Switches, Joystick		15	Switches	1		Switches/Navigation Switches, Joystick	0	0
+212	Programmable Display Switches		15	Switches	1		Switches/Programmable Display Switches	0	0
+199	Pushbutton Switches		15	Switches	1		Switches/Pushbutton Switches	0	0
+211	Pushbutton Switches - Hall Effect		15	Switches	1		Switches/Pushbutton Switches - Hall Effect	0	0
+195	Rocker Switches		15	Switches	1		Switches/Rocker Switches	0	0
+200	Rotary Switches		15	Switches	1		Switches/Rotary Switches	0	0
+203	Selector Switches		15	Switches	1		Switches/Selector Switches	0	0
+213	Slide Switches		15	Switches	1		Switches/Slide Switches	0	0
+197	Tactile Switches		15	Switches	1		Switches/Tactile Switches	0	0
+214	Thumbwheel Switches		15	Switches	1		Switches/Thumbwheel Switches	0	0
+201	Toggle Switches		15	Switches	1		Switches/Toggle Switches	0	0
+40	Tapes, Adhesives, Materials				1		Tapes, Adhesives, Materials	0	0
+961	2D Materials		40	Tapes, Adhesives, Materials	1		Tapes, Adhesives, Materials/2D Materials	0	0
+907	Accessories		40	Tapes, Adhesives, Materials	1		Tapes, Adhesives, Materials/Accessories	0	0
+965	Films		40	Tapes, Adhesives, Materials	1		Tapes, Adhesives, Materials/Films	0	0
+909	Glue, Adhesives, Applicators		40	Tapes, Adhesives, Materials	1		Tapes, Adhesives, Materials/Glue, Adhesives, Applicators	0	0
+2107	Raw Materials - Composites		40	Tapes, Adhesives, Materials	1		Tapes, Adhesives, Materials/Raw Materials - Composites	0	0
+2106	Raw Materials - Felt		40	Tapes, Adhesives, Materials	1		Tapes, Adhesives, Materials/Raw Materials - Felt	0	0
+2105	Raw Materials - Foam		40	Tapes, Adhesives, Materials	1		Tapes, Adhesives, Materials/Raw Materials - Foam	0	0
+2108	Raw Materials - Graphite		40	Tapes, Adhesives, Materials	1		Tapes, Adhesives, Materials/Raw Materials - Graphite	0	0
+2110	Raw Materials - Plastics		40	Tapes, Adhesives, Materials	1		Tapes, Adhesives, Materials/Raw Materials - Plastics	0	0
+2109	Raw Materials - Rubber		40	Tapes, Adhesives, Materials	1		Tapes, Adhesives, Materials/Raw Materials - Rubber	0	0
+908	Tape		40	Tapes, Adhesives, Materials	1		Tapes, Adhesives, Materials/Tape	0	0
+910	Tape Dispensers		40	Tapes, Adhesives, Materials	1		Tapes, Adhesives, Materials/Tape Dispensers	0	0
+29	Test and Measurement				1		Test and Measurement	0	0
+1017	Data Acquisition (DAQ)		29	Test and Measurement	1		Test and Measurement/Data Acquisition (DAQ)	0	0
+1018	GPIB & Communications		29	Test and Measurement	1		Test and Measurement/GPIB & Communications	0	0
+613	Test and Measurement Accessories		29	Test and Measurement	1		Test and Measurement/Test and Measurement Accessories	0	0
+2078	Test Equipment		29	Test and Measurement	1		Test and Measurement/Test Equipment	0	0
+958	Combination Sets		2078	Test Equipment	1		Test and Measurement/Test Equipment/Combination Sets	0	0
+634	Electrical Testers, Current Probes		2078	Test Equipment	1		Test and Measurement/Test Equipment/Electrical Testers, Current Probes	0	0
+632	Environmental Testers		2078	Test Equipment	1		Test and Measurement/Test Equipment/Environmental Testers	0	0
+1019	Force/Torque Gauges		2078	Test Equipment	1		Test and Measurement/Test Equipment/Force/Torque Gauges	0	0
+630	Function Generators		2078	Test Equipment	1		Test and Measurement/Test Equipment/Function Generators	0	0
+615	Multimeters		2078	Test Equipment	1		Test and Measurement/Test Equipment/Multimeters	0	0
+614	Oscilloscopes		2078	Test Equipment	1		Test and Measurement/Test Equipment/Oscilloscopes	0	0
+633	Power Supplies (Test, Bench)		2078	Test Equipment	1		Test and Measurement/Test Equipment/Power Supplies (Test, Bench)	0	0
+631	RF Analyzers		2078	Test Equipment	1		Test and Measurement/Test Equipment/RF Analyzers	0	0
+618	Specialty Equipment		2078	Test Equipment	1		Test and Measurement/Test Equipment/Specialty Equipment	0	0
+619	Variable Transformers		2078	Test Equipment	1		Test and Measurement/Test Equipment/Variable Transformers	0	0
+2079	Test Leads		29	Test and Measurement	1		Test and Measurement/Test Leads	0	0
+623	Alligator, Crocodile, Heavy Duty Clips		2079	Test Leads	1		Test and Measurement/Test Leads/Alligator, Crocodile, Heavy Duty Clips	0	0
+627	Banana, Meter Interface		2079	Test Leads	1		Test and Measurement/Test Leads/Banana, Meter Interface	0	0
+625	BNC Interface		2079	Test Leads	1		Test and Measurement/Test Leads/BNC Interface	0	0
+620	Grabbers, Hooks		2079	Test Leads	1		Test and Measurement/Test Leads/Grabbers, Hooks	0	0
+624	IC Clips		2079	Test Leads	1		Test and Measurement/Test Leads/IC Clips	0	0
+626	Jumper, Specialty		2079	Test Leads	1		Test and Measurement/Test Leads/Jumper, Specialty	0	0
+628	Kits, Assortments		2079	Test Leads	1		Test and Measurement/Test Leads/Kits, Assortments	0	0
+629	Oscilloscope Probes		2079	Test Leads	1		Test and Measurement/Test Leads/Oscilloscope Probes	0	0
+621	Thermocouples, Temperature Probes		2079	Test Leads	1		Test and Measurement/Test Leads/Thermocouples, Temperature Probes	0	0
+616	Test Points		29	Test and Measurement	1		Test and Measurement/Test Points	0	0
+622	Test Probe Tips		29	Test and Measurement	1		Test and Measurement/Test Probe Tips	0	0
+617	Thermometers		29	Test and Measurement	1		Test and Measurement/Thermometers	0	0
+17	Tools				1		Tools	0	0
+948	Abrasives and Surface Conditioning Products		17	Tools	1		Tools/Abrasives and Surface Conditioning Products	0	0
+227	Accessories		17	Tools	1		Tools/Accessories	0	0
+245	Assorted Tool Kits		17	Tools	1		Tools/Assorted Tool Kits	0	0
+260	Chemicals, Cleaners		17	Tools	1		Tools/Chemicals, Cleaners	0	0
+2111	Crimpers, Applicators, Presses		17	Tools	1		Tools/Crimpers, Applicators, Presses	0	0
+250	Crimper, Applicator, Press Accessories		2111	Crimpers, Applicators, Presses	1		Tools/Crimpers, Applicators, Presses/Crimper, Applicator, Press Accessories	0	0
+228	Crimpers, Applicators, Presses		2111	Crimpers, Applicators, Presses	1		Tools/Crimpers, Applicators, Presses/Crimpers, Applicators, Presses	0	0
+232	Crimp Heads, Die Sets		2111	Crimpers, Applicators, Presses	1		Tools/Crimpers, Applicators, Presses/Crimp Heads, Die Sets	0	0
+2080	Dispensing Equipment		17	Tools	1		Tools/Dispensing Equipment	0	0
+990	Applicators, Dispensers		2080	Dispensing Equipment	1		Tools/Dispensing Equipment/Applicators, Dispensers	0	0
+991	Bottles, Syringes		2080	Dispensing Equipment	1		Tools/Dispensing Equipment/Bottles, Syringes	0	0
+271	Tips, Nozzles		2080	Dispensing Equipment	1		Tools/Dispensing Equipment/Tips, Nozzles	0	0
+241	Excavators, Hooks, Picks, Probes, Tuning Tools		17	Tools	1		Tools/Excavators, Hooks, Picks, Probes, Tuning Tools	0	0
+256	Fiber Optics and Accessories		17	Tools	1		Tools/Fiber Optics and Accessories	0	0
+237	Flashlights		17	Tools	1		Tools/Flashlights	0	0
+246	Hammers		17	Tools	1		Tools/Hammers	0	0
+255	Heat Guns, Torches, Accessories		17	Tools	1		Tools/Heat Guns, Torches, Accessories	0	0
+257	Hex, Torx Keys		17	Tools	1		Tools/Hex, Torx Keys	0	0
+229	Insertion, Extraction		17	Tools	1		Tools/Insertion, Extraction	0	0
+242	Knives, Cutting Tools		17	Tools	1		Tools/Knives, Cutting Tools	0	0
+1111	Paint Supplies		17	Tools	1		Tools/Paint Supplies	0	0
+259	Personal Protective Equipment (PPE)		17	Tools	1		Tools/Personal Protective Equipment (PPE)	0	0
+243	Pliers		17	Tools	1		Tools/Pliers	0	0
+1112	Pressure Washers		17	Tools	1		Tools/Pressure Washers	0	0
+244	Punchdown, Blades		17	Tools	1		Tools/Punchdown, Blades	0	0
+248	Punches		17	Tools	1		Tools/Punches	0	0
+2081	Screwdrivers, Nut Drivers and Sets		17	Tools	1		Tools/Screwdrivers, Nut Drivers and Sets	0	0
+236	Screw and Nut Driver Bits, Blades and Handles		2081	Screwdrivers, Nut Drivers and Sets	1		Tools/Screwdrivers, Nut Drivers and Sets/Screw and Nut Driver Bits, Blades and Handles	0	0
+239	Screw and Nut Drivers		2081	Screwdrivers, Nut Drivers and Sets	1		Tools/Screwdrivers, Nut Drivers and Sets/Screw and Nut Drivers	0	0
+249	Screw and Nut Driver Sets		2081	Screwdrivers, Nut Drivers and Sets	1		Tools/Screwdrivers, Nut Drivers and Sets/Screw and Nut Driver Sets	0	0
+2082	Socket and Socket Handles		17	Tools	1		Tools/Socket and Socket Handles	0	0
+251	Socket Handles		2082	Socket and Socket Handles	1		Tools/Socket and Socket Handles/Socket Handles	0	0
+247	Socket Sets		2082	Socket and Socket Handles	1		Tools/Socket and Socket Handles/Socket Sets	0	0
+233	Specialized Tools		17	Tools	1		Tools/Specialized Tools	0	0
+238	Spiral Wrap, Expandable Sleeving		17	Tools	1		Tools/Spiral Wrap, Expandable Sleeving	0	0
+252	Staking Tools		17	Tools	1		Tools/Staking Tools	0	0
+1113	Tool Bags, Boxes and Cabinets		17	Tools	1		Tools/Tool Bags, Boxes and Cabinets	0	0
+240	Tweezers		17	Tools	1		Tools/Tweezers	0	0
+235	Vacuums		17	Tools	1		Tools/Vacuums	0	0
+253	Vises		17	Tools	1		Tools/Vises	0	0
+234	Wire Cutters		17	Tools	1		Tools/Wire Cutters	0	0
+230	Wire Strippers and Accessories		17	Tools	1		Tools/Wire Strippers and Accessories	0	0
+254	Wire Tie Guns and Accessories		17	Tools	1		Tools/Wire Tie Guns and Accessories	0	0
+231	Wire Wrap		17	Tools	1		Tools/Wire Wrap	0	0
+2083	Workbenches, Stations and Accessories		17	Tools	1		Tools/Workbenches, Stations and Accessories	0	0
+1115	Workbench and Station Accessories		2083	Workbenches, Stations and Accessories	1		Tools/Workbenches, Stations and Accessories/Workbench and Station Accessories	0	0
+1114	Workbenches and Stations		2083	Workbenches, Stations and Accessories	1		Tools/Workbenches, Stations and Accessories/Workbenches and Stations	0	0
+258	Wrenches		17	Tools	1		Tools/Wrenches	0	0
+11	Transformers				1		Transformers	0	0
+161	Accessories		11	Transformers	1		Transformers/Accessories	0	0
+162	Audio Transformers		11	Transformers	1		Transformers/Audio Transformers	0	0
+163	Current Sense Transformers		11	Transformers	1		Transformers/Current Sense Transformers	0	0
+167	Isolation Transformers and Autotransformers, Step Up, Step Down		11	Transformers	1		Transformers/Isolation Transformers and Autotransformers, Step Up, Step Down	0	0
+164	Power Transformers		11	Transformers	1		Transformers/Power Transformers	0	0
+166	Pulse Transformers		11	Transformers	1		Transformers/Pulse Transformers	0	0
+165	Specialty Transformers		11	Transformers	1		Transformers/Specialty Transformers	0	0
+168	Switching Converter, SMPS Transformers		11	Transformers	1		Transformers/Switching Converter, SMPS Transformers	0	0
+1	Uncategorized				1		Uncategorized	0	0
