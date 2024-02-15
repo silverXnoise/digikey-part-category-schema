@@ -18,7 +18,7 @@ To make these schema files, I used the DigiKey API to pull its categories and du
 
 ## Credits
 
-All credit and gratitude goes to the [https://github.com/inventree/InvenTree/graphs/contributors](devs at InvenTree) for their hard work and dedication to this incredibly useful and generously spec'd platform! Please help [support](https://github.com/InvenTree/InvenTree/#heart-support) them in any way you can by visiting their [website](https://inventree.org/) and [getting involved](https://github.com/InvenTree/InvenTree/#wave-contributing)!
+All credit and gratitude goes to the [devs](https://github.com/inventree/InvenTree/graphs/contributors) at InvenTree for their hard work and dedication to this incredibly useful and generously spec'd platform! Please help [support](https://github.com/InvenTree/InvenTree/#heart-support) them in any way you can by visiting their [website](https://inventree.org/) and [getting involved](https://github.com/InvenTree/InvenTree/#wave-contributing)!
 
 ## Contributing
 
